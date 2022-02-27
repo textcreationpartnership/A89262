@@ -1,0 +1,1099 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Brevis disquisitio an &amp; quomodo vulgo dicti evangelici pontifictios, ac nominatim Val. Magnide acatholicorum credendi regula judicium solidè atque evidenter refutare queant</title>
+            <author>Magni, Valeriano, 1587-1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 78 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89262</idno>
+            <idno type="STC">Wing M258</idno>
+            <idno type="STC">Thomason E1392_2</idno>
+            <idno type="EEBO-CITATION">99868411</idno>
+            <idno type="PROQUEST">99868411</idno>
+            <idno type="VID">169908</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89262)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169908)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 181:E1392[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Brevis disquisitio an &amp; quomodo vulgo dicti evangelici pontifictios, ac nominatim Val. Magnide acatholicorum credendi regula judicium solidè atque evidenter refutare queant</title>
+                  <author>Magni, Valeriano, 1587-1661.</author>
+               </titleStmt>
+               <extent>72 p.   </extent>
+               <publicationStmt>
+                  <publisher>Typis Godfridi Philadelphi,</publisher>
+                  <pubPlace>Eleutheropoli [i.e. London] :</pubPlace>
+                  <date>MDCL. [1650 i.e. 1651]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.  Publisher's name is false.</note>
+                  <note>Val. Magnide = Valeriano Magni.</note>
+                  <note>Annotation on Thomason copy: "Londini"; "I" added to roman numeral imprint date.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Apologetic works --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169908:1" rendition="simple:additions"/>
+            <p>BREVIS DISQVISITIO, An &amp; quomodo vulgo dicti E<g ref="char:EOLhyphen"/>vangelici Pontificios, ac no<g ref="char:EOLhyphen"/>minatim <hi>Val. Magnide A<g ref="char:EOLhyphen"/>catholicorum credendi regu<g ref="char:EOLhyphen"/>la judicium</hi> ſolidè atque evi<g ref="char:EOLhyphen"/>denter refutare queant.</p>
+            <p>ELEUTHEROPOLI, Typis <hi>Godfridi Philadelphi,</hi> MDCL.</p>
+         </div>
+         <div type="quotations">
+            <pb facs="tcp:169908:2"/>
+            <q>
+               <bibl>APOC. XXI. 7, 8.</bibl>
+               <p>
+                  <hi>QUi vicerit, poſſidebit omnia: &amp; ero ei Dominus, &amp; ipſe erit mihi fi<g ref="char:EOLhyphen"/>lius. Timidis autem, &amp; incredulis, &amp; execrabilibus, &amp; homicidis, &amp; ſcor<g ref="char:EOLhyphen"/>tatoribus, &amp; veneficis, &amp; idololatris, &amp; omnibus mendacibus pars eſt in ſtagno ardenti igne &amp; ſulphure; quod eſt mors ſecunda.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>APOC. XXII, 14, 15.</bibl>
+               <p>
+                  <hi>BEati qui ſervant ejus mandata, ut ſit eis jus in arborem vitae, &amp; per portas ingrediantur in urbem, foris au<g ref="char:EOLhyphen"/>tem</hi> erunt <hi>canes, &amp; venefici, &amp; ſcor<g ref="char:EOLhyphen"/>tatores, &amp; homicidae, &amp; idololatrae, &amp; quiſquis amat ac committit menda<g ref="char:EOLhyphen"/>cium.</hi>
+               </p>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:169908:2"/>
+            <head>BREVIS DISQVISITIO, An &amp; quomodo vulgo dicti E<g ref="char:EOLhyphen"/>vangelici Pontificios, ac no<g ref="char:EOLhyphen"/>minatim <hi>Val. Magnide A<g ref="char:EOLhyphen"/>catholicorum credendi regu<g ref="char:EOLhyphen"/>la judicium</hi> ſolidè atque evi<g ref="char:EOLhyphen"/>denter refutare queant.</head>
+            <div n="1" type="chapter">
+               <head>CAPVT I. <hi>Qui errorem refutare velit; eum nec in eodem haerere, nec vera refutatio<g ref="char:EOLhyphen"/>nis fundamenta rejicere oportet.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">E</seg>ORUM, quae adverſus Pontificios diſputantur, duo ſunt praecipua, quo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um vis ad alia omnia ſeſe porrigit. Alterum de Judice eſt: Alterum de Norma controverſiarum fidei. Nam ſi obtinuerint illi, eccleſiam ſuam, aut Pontificem Romanum ju<g ref="char:EOLhyphen"/>dicem eſſe talem, cujus ſenten<g ref="char:EOLhyphen"/>tiam, ſub aeternae damnationis poe<g ref="char:EOLhyphen"/>na, quivis ſine contradictione, aut
+<pb n="4" facs="tcp:169908:3"/>tergiverſatione ſequi teneatur; traditioneſque non ſcriptas ad nor<g ref="char:EOLhyphen"/>mam omnino pertinere: rem om<g ref="char:EOLhyphen"/>nem confectam habebunt. Quic<g ref="char:EOLhyphen"/>quid enim in controverſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s particu<g ref="char:EOLhyphen"/>laribus ex ſacris literis adverſus illos allatum ſuerit: al<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ſenſu ac<g ref="char:EOLhyphen"/>cipiendum eſſe, Papa judice, di<g ref="char:EOLhyphen"/>cent. Qui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quid praeter ſcripturam ab ipſis doceri dixeris; Traditio<g ref="char:EOLhyphen"/>num non Scripturarum normae conſentaneum eſſe regerent. Quo<g ref="char:EOLhyphen"/>circa, ſi quis vel Judicem, vel Normam controverſiarum fidei non recte conſtituerit: is ſolide refutare Pontificios nequaquam poterit. Et manifeſtum <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d qui<g ref="char:EOLhyphen"/>dem de illis eſt, qui, ſive per om<g ref="char:EOLhyphen"/>nia, ſive ex parte eundem cum Pontificiis Judicem, eandemque Normam ſtatuunt. Idem tamen &amp; de illis cenſendum, qui Ponti<g ref="char:EOLhyphen"/>ficiis quidem ea in re adverſan<g ref="char:EOLhyphen"/>tur; at ipſi tamen in conſtituendo judice normaque à vero aberrant: ita quidem, ut non modo veram ſententiam; ſed &amp; ſimul cum iſta, omnia falſitatis refutandae funda<g ref="char:EOLhyphen"/>menta rejiciant. Etſi enim ſim<g ref="char:EOLhyphen"/>pliciter
+<pb n="5" facs="tcp:169908:3"/>non ſequitur, ſi tua ſen<g ref="char:EOLhyphen"/>tentia falſa eſt, m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am protinus veram eſſe (quia nimirum utraque falſa, praeterque eas alia aliqua vera eſſe poſſit). Attamen ſi id omnino conſtitutum aut conclu<g ref="char:EOLhyphen"/>ſum ſit: vel meam, vel tuam, nul<g ref="char:EOLhyphen"/>lamque praeterea aliam poſſe ve<g ref="char:EOLhyphen"/>ram eſſe ſententiam: certe à re<g ref="char:EOLhyphen"/>motione ſententiae tuae ita meam colligam, ut tu, quod reſpondeas, nihil invenire poſſis; niſi conceſſis p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aemiſſis complexionem abſurdè negare volueris. Dum vero ita veram excludis ſententiam, ut ſi<g ref="char:EOLhyphen"/>mul refutandae falſitatis funda<g ref="char:EOLhyphen"/>menta ejicias: qui fieri poſſit, ut meam tu, licet falſam, ſolidè re<g ref="char:EOLhyphen"/>futare ſententiam queas? Totum autem il ud in i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, quos Luthera<g ref="char:EOLhyphen"/>nos Calvinian<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſque app<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llare ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>lent, deprehenditur. Nimirum inſignes adeo tum de Judice, tum Norma controverſiarum fidei <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<g ref="char:EOLhyphen"/>vent errores: ut quominus Pon<g ref="char:EOLhyphen"/>tificiis rectè reſpondere queant, omnino impediantur. Id quod paucis demonſtrare conab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mur. Cumprimis verò, ut illuſtris cu<g ref="char:EOLhyphen"/>juſdam
+<pb n="6" facs="tcp:169908:4"/>viri petitioni ſatisfaciamus, in <hi>Valeriani Magni Mediolanenſis F. Ordinis Minoru<g ref="char:cmbAbbrStroke">̄</g> Seraphici P. Fran<g ref="char:EOLhyphen"/>ciſci, nuncupatorum Capuccinorum, de Acatholicoru<g ref="char:cmbAbbrStroke">̄</g> credendi regula judicio, anno</hi> MDCXXVIII. <hi>Pragae à Paulo Seſſio excuſo,</hi> id ipſum videbi<g ref="char:EOLhyphen"/>mus: ſimulque vera refutationis fundamenta, bono cum Deo, oſten<g ref="char:EOLhyphen"/>demus.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CAP. II. <hi>De Patribus &amp; Doctoribus.</hi>
+               </head>
+               <p>ET primùm rectè quidem verbis illi adverſus Pontificios ne<g ref="char:EOLhyphen"/>gant, Eccleſiam, ejuſque Docto<g ref="char:EOLhyphen"/>res, aut Concilia, controverſiarum fidei judices eſſe tales, quorum ſententias ſequi omnes, ſi aeter<g ref="char:EOLhyphen"/>nam condemnationem effugere velint, obligati ſint. Sed haut ſcio, an quod dicunt reipſa defen<g ref="char:EOLhyphen"/>dere nequeant. De Patribus, quos vocant, Conciliiſque primorum ſeculorum ea plane produnt, quae, niſi judices omnino conſtituan<g ref="char:EOLhyphen"/>tur, nullo conſiſtere modo poſ<g ref="char:EOLhyphen"/>ſunt. Nimirum Scripturam ſa<g ref="char:EOLhyphen"/>cram
+<pb n="7" facs="tcp:169908:4"/>ex illorum mente explicant. Ab illis doctrine capita repetunt. Illorum auctoritate conſirmant. Neque adverſus Pontificios tan<g ref="char:EOLhyphen"/>tum, ſed &amp; adverſus eos diſpu<g ref="char:EOLhyphen"/>tantes, qui à Patribus ſe dillen<g ref="char:EOLhyphen"/>tire non inficiantur, perpetuum il<g ref="char:EOLhyphen"/>lum Patrum Conciliorum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> con<g ref="char:EOLhyphen"/>ſenſum perpetuò crepant. Eoſque qui Patribus illis olim Conciliiſ<g ref="char:EOLhyphen"/>que contradixerunt, tanquam hae<g ref="char:EOLhyphen"/>reticos meritò damnatos eſſe cen<g ref="char:EOLhyphen"/>ſent. Neque Patres propterea re<g ref="char:EOLhyphen"/>cipiunt, quia cum Scriptura con<g ref="char:EOLhyphen"/>ſentiunt: ſed Scripturam eo in<g ref="char:EOLhyphen"/>telligendam modo cenſent, qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a Patres ita explicarunt. Ideoque priùs de unanimi Patrum Conci<g ref="char:EOLhyphen"/>liorumque conſenſu, quà de ve<g ref="char:EOLhyphen"/>ro Scripturae ſenſu ſunt ſolliciti. Nec deſunt, qui affirmare n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n dubitant, etiamſi ſacrae literae il<g ref="char:EOLhyphen"/>lorum adverſari ſententiae manife<g ref="char:EOLhyphen"/>ſtè ipſis viderentur; ſi tamen P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tres Conciliaque ſecus eas in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cl<g ref="char:EOLhyphen"/>lexerint: malle ſe Patri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us iſtis Concilliiſque adhaerere; quàm pri<g ref="char:EOLhyphen"/>vatum, uti vocant, ſuum de Scri<g ref="char:EOLhyphen"/>pturis ſequi judicium. Neque il<g ref="char:EOLhyphen"/>li
+<pb n="8" facs="tcp:169908:5"/>è vulgi fece ſunt; ſed &amp; qui ad ſummum in Theologia gradum conſcenderunt. Deum immorta<g ref="char:EOLhyphen"/>lem! cur à Pont<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orum tot dog<g ref="char:EOLhyphen"/>matis, tot Patrum Conciliorum<g ref="char:EOLhyphen"/>que comprobatis ſuffragils receſ<g ref="char:EOLhyphen"/>ſerunt? Nonne in illis privatum ſuum de Scripuris ſequuti judi<g ref="char:EOLhyphen"/>cium ſunt? Et cur idem non au<g ref="char:EOLhyphen"/>dent in caeteris? Si verò Pat um Conciliorumque tanta eſt aucto<g ref="char:EOLhyphen"/>ritas: cur cam non ſequuntur in omnibus? Et quid tandem inve<g ref="char:EOLhyphen"/>nient, quod conſtanter Pontificiis reſpondeant? Nihil nunc dicam de co, quod meritò tamen deplo<g ref="char:EOLhyphen"/>randum, quòd familiae ſuae auto<g ref="char:EOLhyphen"/>res, ac doctores Lutherum, Bren<g ref="char:EOLhyphen"/>tium, Chemnitium, vel Calvi<g ref="char:EOLhyphen"/>num, Bezam, Zwinglium, alioſ<g ref="char:EOLhyphen"/>que tanti faciant, ut vel latum ab eorum placitis unguem recedere magna ipſis ſit religio. Adeo ut in diſſentientes ferro, ſlamma, car<g ref="char:EOLhyphen"/>cere, exilio ſaevire non dubitent. Res nimis manifeſta eſt, ut pro<g ref="char:EOLhyphen"/>bationis hautquaquam indigear. Hoc autem annon eſt, Eccleſiae, ejuſque doctoribus controverſias
+<pb n="9" facs="tcp:169908:5"/>cum aliorum obligatione judi<g ref="char:EOLhyphen"/>candi poteſtatem adſcribere?</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CAP. III. <hi>De Spiritu ſancto.</hi>
+               </head>
+               <p>SEd praeterea alius de Judic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> error eſt, iſque eo ad incaut<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſeducendum accommodatior, qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> majorem ſanctitat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ac religioms habet ſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em. Nimi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um Judi<g ref="char:EOLhyphen"/>cem ipſi Spiritum ſanctum ſtatuunt. Saltem ſine eo nullum cuiquam de ſacris judicium concedere vo<g ref="char:EOLhyphen"/>lunt. Quo ipſo ration's ſanae judi<g ref="char:EOLhyphen"/>cium ante Spiritus ſancti illuſtrati<g ref="char:EOLhyphen"/>onem plane tollitur. Quamvis prae<g ref="char:EOLhyphen"/>terea ex profeſſo cont<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a eam di<g ref="char:EOLhyphen"/>ſpurent, &amp; neſcio q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ibus floſculis rationem etiam ſanam egregie ſcilicet condecorare ſoleant: ali<g ref="char:EOLhyphen"/>iſque tanquam abſurdum obj<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cere, quòd rationi conſentanea eſſe omnia religionis capita aſſerant. Hinc Monacho illi <hi>Val. Magno</hi> e<g ref="char:EOLhyphen"/>juſmodi naſcitur hypotheſis, ex Luther<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>norum Calvinianorumque ſententia:
+<note place="margin">
+                     <hi>c. l. pag.</hi> 2. <hi>pr.</hi> 3.</note> 
+                  <hi>Nullus certo aſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>qui<g ref="char:EOLhyphen"/>tur verum ſenſum ſacrarum lite<g ref="char:EOLhyphen"/>rarum,
+<pb n="10" facs="tcp:169908:6"/>niſi interius illuſtratus &amp; edo<g ref="char:EOLhyphen"/>ctus à Spiritu ſancto.</hi> Haec talia qui admittunt, eos omnino ad hanc tandem devenire oportet quaeſtio<g ref="char:EOLhyphen"/>nem: Quinam ſint illi, qui verum à Spiritu ſancto ſenſum edocti ſint? Et porrò ſi reſpondeant, ſingulos eſ<g ref="char:EOLhyphen"/>ſe devote orantes: quaeretur: Qui<g ref="char:EOLhyphen"/>nam ſint, qui devote, uti decet, orant? Nec omnes dicere; nec certos quoſdam nominare audent. Imò affirmant, quod &amp; à Monacho annotatur:
+<note place="margin">
+                     <hi>C. ll. pag.</hi> 12. <hi>pr.</hi> 1.</note> 
+                  <hi>ſingulos Chriſtianos errare poſſe in fide.</hi> Fateantur ergo neceſſe eſt: ſingulos etiam poſſe non ſatis devote orare. Alioqui n. nec in fide errare poſſent. Hoc ipſum enim ſi oratione obtinerent, nec in fide er<g ref="char:EOLhyphen"/>rarent; niſi in oratione defectus eſſet. Nimirum ſi verum eſt, ſingu<g ref="char:EOLhyphen"/>lis devote orantibus Spiritum S. dari. Quid ſi ergo erra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent? Sic enim quum exiſtimarent, ſe habere Spiritum ſanctum, fallerentur. Recte enim Monachus ſub finem cap. 11 colligit: <hi>Quia Bibliſtae fa<g ref="char:EOLhyphen"/>tentur fieri poſſe, ut aliquis non, uti de<g ref="char:EOLhyphen"/>cet, invocet Spiritum ſanctum: con<g ref="char:EOLhyphen"/>ſequenter fieri poteſt, ut omnes ac ſingu<g ref="char:EOLhyphen"/>li
+<pb n="11" facs="tcp:169908:6"/>deſti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uantur Spiritu ſancto, &amp; con<g ref="char:EOLhyphen"/>ſequenter diſcordent à ſacris literis, &amp; errent in fide.</hi> Nec quicquam valet eorum exceptio, qui ſingulos qui<g ref="char:EOLhyphen"/>dem errare poſſe fatentur; ſed in praeſenti; non autem perpetuò, ſeu finaliter. Quod p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aedeſtinatos, ſeu ab omni aeternitate nomina<g ref="char:EOLhyphen"/>tim, ſive abſolute, ſive reſpectu ad fidem, operave futura habito, ele<g ref="char:EOLhyphen"/>ctos perire, adeoque finaliter er<g ref="char:EOLhyphen"/>rare non poſſe credant. Primùm enim id totum falſum eſt. Neque enim de ejuſmodi, qualem illi vo<g ref="char:EOLhyphen"/>lunt, praedeſtinatione qui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quam eſt in ſacris literis. Imò talia ex ea ſequuntur abſurda, quae cum ſac is literis, &amp; principiis natura<g ref="char:EOLhyphen"/>libus manifeſtò pugnant. Deinde etiamſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vera<g ref="char:cmbAbbrStroke">̄</g> illa eſſent omnia; non tollerent difficultatem. Quaero enim: unde ſcis te eſſe praedeſti<g ref="char:EOLhyphen"/>natum? Ex Spiritu ſancto. At un<g ref="char:EOLhyphen"/>de ſcis te certò habere Spiritum ſanctum: quum fieri poſſit, ut quis in eo fallatur &amp; erret? Quia ſum praedeſtinatus. Praedeſtinati autem finaliter non errant. Quis puden<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um hic non videt circulum?
+<pb n="12" facs="tcp:169908:7"/>Spiritus enim ſancti praeſentia probatur ex praedeſtinatione: &amp; rurſus praedeſtinatio ex Spiritus ſancti praeſentia. Similiter: unde ſcis te eſſe electum? Quia ſum ovis Chriſti. Unde id noſti? quia vocem Dei in Scriptura expreſ<g ref="char:EOLhyphen"/>ſam audio. Hic duo quaero: pri<g ref="char:EOLhyphen"/>mum, unde ſcis in Scriptura vo<g ref="char:EOLhyphen"/>cem Dei expreſſam? Ex Spiritu ſancto. Deinde, unde ſcis hunc eſſe Scripturae ſenſum? Ex Spiri<g ref="char:EOLhyphen"/>tu ſancto. At unde ſcis te habere Spiritum ſanctum? Quia <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ravi. Unde ſcis te ſatis devotè oraſſe? quia ſum electus. Vides ut redeas unde egreſſus eras. Hoc ipſum enim, te eſſe electum, probandum erat. Tandem, ut te electum eſſe conſtet; quia tamen aliquan<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rare electi etiam tales p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſunt: qui ſcis te mod non etrare? Haec omnia qui conſideraverit, mani<g ref="char:EOLhyphen"/>feſtè deprehendet, eos, qui ſupra dicta de Spiritu ſancto ad omne de rebus credendis judicium ne<g ref="char:EOLhyphen"/>ceſſariò urgent: totum Monachi cap. 4. ſolidè refutare nullo mo<g ref="char:EOLhyphen"/>do poſſe. Sequitur enim iſtis ſap<g ref="char:EOLhyphen"/>poſitis
+<pb n="13" facs="tcp:169908:7"/>omnino, quod ille concludit: <hi>Illuſtrationem mentu,
+<label type="milestone">
+                        <seg type="milestoneunit">Conſ. </seg>2</label> ſeu divinos ſu<g ref="char:EOLhyphen"/>pernaturaleſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> motus, quos Spiritus ſan<g ref="char:EOLhyphen"/>ctus excitat in mente Bibliſtarum prae<g ref="char:EOLhyphen"/>miſſa oratione conſulentiu<g ref="char:cmbAbbrStroke">̄</g> ex ſacris li<g ref="char:EOLhyphen"/>teris Spiritu<g ref="char:cmbAbbrStroke">̄</g> ſanctu<g ref="char:cmbAbbrStroke">̄</g>, eſſe argumentum, unde certo colligant, ſe doceri à Spiritu ſancto verum ſenſum ſacraru<g ref="char:cmbAbbrStroke">̄</g> literaru<g ref="char:cmbAbbrStroke">̄</g>.</hi> unde enim aliàs vel Biblia contine<g ref="char:EOLhyphen"/>re verbum Dei; vel hunc eſſe à Spi<g ref="char:EOLhyphen"/>ritu ſancto dictatum verbo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um ſen<g ref="char:EOLhyphen"/>ſum dignoſcunt? Quand<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quidem rationis à Spiritu ſancto non illu<g ref="char:EOLhyphen"/>minatae judicium jam exploſerunt. Hinc porrò colligitur:
+<label type="milestone">
+                     <seg type="milestoneunit">Conſ. </seg>3</label> 
+                  <hi>Ergo ejuſ<g ref="char:EOLhyphen"/>modi motus neceſſario debent eſſe maxi<g ref="char:EOLhyphen"/>me divini, certi, &amp; indubitati, quo ſine ulla formidine erroris, v.g. quaeli<g ref="char:EOLhyphen"/>bet mul<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rcula audeat, poſſit, &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>enea<g ref="char:EOLhyphen"/>tur, ſub poena mortis aete<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ae, conſtan<g ref="char:EOLhyphen"/>tius credere, ſe certius edoctam ex ſa<g ref="char:EOLhyphen"/>cris literis à Spiritu ſancto, qua<g ref="char:cmbAbbrStroke">̄</g> omnes totius Eccleſiae Chriſti paſtores con<g ref="char:EOLhyphen"/>gregati in generali Concilio à Roma<g ref="char:EOLhyphen"/>no Pontifice approbato.</hi> Unde porrò concludit Monachus:
+<label type="milestone">
+                     <seg type="milestoneunit">Conſ. </seg>4</label> 
+                  <hi>eos nimium praeſumere de Spiritu S.</hi> Adde, quòd iſta de Judice ſententia atheiſmum tandem invehat. Si enim de re<g ref="char:EOLhyphen"/>bus credendis ſine Spiritu ſancto
+<pb n="14" facs="tcp:169908:8"/>nihil recte judicare poſſumus: un<g ref="char:EOLhyphen"/>de conſtat Deum eſſe? Religio<g ref="char:EOLhyphen"/>nem eſſe? In codice biblico ver<g ref="char:EOLhyphen"/>bum Dei contineri? Hunc eſſe ve<g ref="char:EOLhyphen"/>rum ſcripturae ſenſum? Ex Spiri<g ref="char:EOLhyphen"/>tus S. indicio. At unde conſtat Spiritus ſancti indicium eſſe ve<g ref="char:EOLhyphen"/>rum? Quia Dei Spiritus eſt: quia ſcriptura teſtatur. Atqui oſtendere debebas Deum eſſe? Ejuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Spi<g ref="char:EOLhyphen"/>ritum vera dicere? Scripturae cre<g ref="char:EOLhyphen"/>dendum eſſe? Hunc eſſe Scriptu<g ref="char:EOLhyphen"/>rae ſenſum? No illud nunc repe<g ref="char:EOLhyphen"/>tam, unde conſtet te Spiritum S. habere? Poſſetne vir cordatus e<g ref="char:EOLhyphen"/>juſmodi gyris ab atheiſmo revo<g ref="char:EOLhyphen"/>cari? Idem etiam ex eo ſequitur: quod rationis judicium ſine illu<g ref="char:EOLhyphen"/>ſtratione Spiritus ſancti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>è rebus divinis eliminatur. Qui enim non<g ref="char:EOLhyphen"/>dum credit Deum eſſe, Religio<g ref="char:EOLhyphen"/>nem eſſe, ſacris literis fidem ha<g ref="char:EOLhyphen"/>bendam eſſe: is utique Spiritum ſanctum non habet. Ergo ejus ope dijudicare non poteſt. Jam ſi ra<g ref="char:EOLhyphen"/>tio non admittatur ſine Spiritu S. nihil ille judicabit. Adeo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Athe<g ref="char:EOLhyphen"/>us perpetuo manebit. Et cur cum diſſentientibus aut impiis de re<g ref="char:EOLhyphen"/>bus
+<pb n="15" facs="tcp:169908:8"/>divinis loquuntur? Nonne ut intelligant &amp; convertantur? At, ſi Spiritum ſanctum non habent, ip<g ref="char:EOLhyphen"/>ſis judicibus, nihil intelligunt. Fru<g ref="char:EOLhyphen"/>ſtra ergo loquuntur. Si habent: nec impii ſunt, nec male ſentiunt. Nimi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um, ſi verum eſt, quod ex illorum ſententia Monachus ha<g ref="char:EOLhyphen"/>bet:
+<note place="margin">
+                     <hi>C. l. pag.</hi> 2. <hi>pr.</hi> 5.</note> 
+                  <hi>Neminem poſſe diſcordare à ver<g ref="char:EOLhyphen"/>bo Dei, qui interius illuſtratur, &amp; do<g ref="char:EOLhyphen"/>cetur à Spiritu ſancto.</hi>
+               </p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CAP. IV. <hi>Vera de judice ſententia.</hi>
+               </head>
+               <p>ITa<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> negandum eſt, <hi>nullum certo aſſequi verum ſenſum ſacrarum li<g ref="char:EOLhyphen"/>terarum, niſi interius illuſtratus &amp; edo<g ref="char:EOLhyphen"/>ctus ſit à Spiritu ſancto;</hi> ſtatuendum<g ref="char:EOLhyphen"/>que: Rationem hominis ſanam cuivis ſufficere ad dijudicandum, tum ex hiſtoriis aliiſque certis prin<g ref="char:EOLhyphen"/>cipiis,
+<label type="milestone">
+                     <seg type="milestoneunit">Conſ. </seg>7</label> de quibus infra nonnihil explicabimus, ſacrarum literarum auctoritatem: tum ex ipſis literis ſacris, earumque collatione, tum inter ſe, tum cum principiis di<g ref="char:EOLhyphen"/>ctis, non tantùm omnia, quae ſim<g ref="char:EOLhyphen"/>pliciter ad ſalutem ſunt neceſſa<g ref="char:EOLhyphen"/>ria;
+<pb n="17" facs="tcp:169908:9"/>ſed &amp; multa utilia, licet non adeo neceſſaria. Rationis ſancae e<g ref="char:EOLhyphen"/>nim judicio, quid quiſque velit, quantum cujuſque teſtimonium va<g ref="char:EOLhyphen"/>leat, quantum à vero falſove diſ<g ref="char:EOLhyphen"/>cedat cognoſcitur: quaecunque dubitationes profligantur, quae<g ref="char:EOLhyphen"/>cunque controverſiae ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>piuntur, non niſi rationis judicio profl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gan<g ref="char:EOLhyphen"/>tur &amp; ſopitu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tur. Rationis ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ae ju<g ref="char:EOLhyphen"/>dicio omnes diſputationes legiti<g ref="char:EOLhyphen"/>mae inſtituuntur: &amp; ſua, quiſq<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is alter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> lequ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur, dijudic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ri cupit. Neque quiſquam adferre quic<g ref="char:EOLhyphen"/>quam cont<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a ra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ionem auſit, quod rationis judicio non comproba<g ref="char:EOLhyphen"/>tum ipſe velit, ut manifeſto appa<g ref="char:EOLhyphen"/>reat, non poſſe non ſibi ipſis con<g ref="char:EOLhyphen"/>tradicere, qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cunque ſanae ratio<g ref="char:EOLhyphen"/>nis judicium oppugnatum ullo modo cunt. Quoci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ca neceſſarium omnino eſt, illi &amp; ſacras literas intelligendi judicandique f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>culta<g ref="char:EOLhyphen"/>tem adſcribere. Neque enim tan<g ref="char:EOLhyphen"/>ta eſt ubique ſacrarum literarum obſcuritas. Quid? adeo clara quaedam ſunt, ut à quovis audien<g ref="char:EOLhyphen"/>te aut legente protinus intelligan<g ref="char:EOLhyphen"/>tur. Obſcuriorum autem loco<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um
+<pb n="17" facs="tcp:169908:9"/>explicatio non eſt omnibus neceſſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ia. Quòd ſi quis tamen ſe<g ref="char:EOLhyphen"/>rio quae<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t; Spiritus ſancti ope in<g ref="char:EOLhyphen"/>veſtigabit. Et hoc ipſum quod in<g ref="char:EOLhyphen"/>telligit, an à Spiritu ſancto neene ſit, nonniſi rationis ſanae judicio conſtare poteſt. Neque enim do<g ref="char:EOLhyphen"/>num illud Spiritus ſancti ratio<g ref="char:EOLhyphen"/>num tollit; ſed attollit, &amp; illu<g ref="char:EOLhyphen"/>ſtrat, ut quod per ſe vel non pote<g ref="char:EOLhyphen"/>rat (quemad nodum in qui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſdam lo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is Scripturae obſcurioribus e<g ref="char:EOLhyphen"/>nodandis apparet) vel non ſine difficultate po<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erat, id <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ope poſſit, aut facilius poſſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m medium uſurpat Spi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>itus ſanctus ad operationes perfic endas illud q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od in nobis invenit operationi<g ref="char:EOLhyphen"/>bus iſtis accommodatum. Quem<g ref="char:EOLhyphen"/>admod <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m ad videndum oculum, ad audiendum aurem m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am ad<g ref="char:EOLhyphen"/>hibet: ita ad intelligendum, &amp; judicandum, certè ratione mea, unico ſcilicet intelligend<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> judi<g ref="char:EOLhyphen"/>candique inſtrumento, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>titur, Prae<g ref="char:EOLhyphen"/>terea quemadmodum quiſque e<g ref="char:EOLhyphen"/>tiam ſacra oculis legere, au<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ibuſque audire po<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſt, ſine Spiritus ſancti interiore ope, aut peculiari ocu<g ref="char:EOLhyphen"/>lorum
+<pb n="18" facs="tcp:169908:10"/>auriumque illuſtratione: ita non minus intelligere judicareque eadem ſacra licet rationis ſanae be<g ref="char:EOLhyphen"/>neficio, etiamſi nondum acceſſerit Sp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tus ſancti illuſtratio. Praeſer<g ref="char:EOLhyphen"/>tim in iis, quae ad ſalutem ſimpli<g ref="char:EOLhyphen"/>citer ſunt neceſſaria. Hoc ergo conſt tuto ſundamento, totum Monachi cap 4. cujus ſummam paulo ante vidimus, corruit. Ne<g ref="char:EOLhyphen"/>que enim dici poteſt, quod ille conſequentia tertia &amp; quarta ha<g ref="char:EOLhyphen"/>bet: nimium quemque de ſe prae<g ref="char:EOLhyphen"/>ſumere, ſi ex ſtimet, ſe rationis ſuae judicio melius, quàm tot Pa<g ref="char:EOLhyphen"/>tres in Concilio congregati, Scri<g ref="char:EOLhyphen"/>pturas intelligere. Nihil enim in eo abſurdi eſt. Eo, quod ratione patres illi, religione an ſuperſti<g ref="char:EOLhyphen"/>tione ducti, haut dixerim, judi<g ref="char:EOLhyphen"/>candi partes denegarint: neque ejus ſententiam in iſtis, quemad<g ref="char:EOLhyphen"/>modum exiſtimabant, myſteriis audire ſuſtinuerint. Aliàs ſi uti ra<g ref="char:EOLhyphen"/>tione voluiſſent, facilius tot docti Scripturas intellexiſſent, quàm pauci plebei. Ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſequitur, quod Monachus, capite v. potiſſimum ſupponit: nullam fore certitudi<g ref="char:EOLhyphen"/>nem,
+<pb n="19" facs="tcp:169908:10"/>nullamque Eccleſiam. Quod ſinguli diverſam ſecuturi ſint ſen<g ref="char:EOLhyphen"/>tentiam, ſi ſuum quiſque ſequere<g ref="char:EOLhyphen"/>tur judicium. Vbi enim ſana ratio judicat, ibi id metuendum non eſt. Vide Philoſophiam, vide ar<g ref="char:EOLhyphen"/>tes reliquas omnes. In illis om<g ref="char:EOLhyphen"/>nium confeſſione ratio judicat. Et annon certitudo eſt aliqua? An nondum cer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us es: utrum bis duo ſiot quatuor? An trianguli eres anguli ſint aequales duobus rectis? An cauſa prior effecto? An totum par<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e majus? An rejectis ſpeciebus omnibus tollatur ge<g ref="char:EOLhyphen"/>nus? An poſito genere aliqua po<g ref="char:EOLhyphen"/>natur ſpecies? An calceus pedi, pileus capiti aptandus ſit? Nega ſodes. At rationis judicio iſta con<g ref="char:EOLhyphen"/>ſtant. Ejuſdem etiam beneficio multi idem ſtatuent, ut exemplis è Philoſophia attibuſque deſum<g ref="char:EOLhyphen"/>tis manifeſte docetur. Quidni idem de divinis dicemus? Erit ergo Eccleſia, erit &amp; certitudo ſufficiens. Nam &amp; ſuos illa gra<g ref="char:EOLhyphen"/>dus habet: nec de ſingulis eſt ne<g ref="char:EOLhyphen"/>ceſſarin. Quin imò ſaepe dubitatio, ſtudii &amp; ſapientiae initium &amp; cau<g ref="char:EOLhyphen"/>ſa
+<pb n="20" facs="tcp:169908:11"/>eſt. Iſtis ergo admiſſis: totum caput quintum Monachi corruit. In eo enim ejuſmodi incertitudi<g ref="char:EOLhyphen"/>nent, diverſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atem, confuſionem<g ref="char:EOLhyphen"/>que per ſeptem conſequentias col<g ref="char:EOLhyphen"/>ligere volui<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Quas an Lutherani Calvinian<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſalvis ſuis hypotheſi<g ref="char:EOLhyphen"/>bus, noſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aque rejecta ſententia refutare ſolidè poſſint, ipſi vide<g ref="char:EOLhyphen"/>rint. Nobis nihil obſtare jam o<g ref="char:EOLhyphen"/>ſtendimus. Supereſt, ut Pontifi<g ref="char:EOLhyphen"/>ciorum de judice ſententiam con<g ref="char:EOLhyphen"/>ſiſtere non poſſe paucis docea<g ref="char:EOLhyphen"/>mus. Id autem ex eo facile appa<g ref="char:EOLhyphen"/>ret, quod ad atheiſmum, ſi quis v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m ejus penitus inſpiciat, nec a<g ref="char:EOLhyphen"/>liis fulciatur fundamentis, omni<g ref="char:EOLhyphen"/>no perducat. In circulum enim abit, &amp; contradictionis gladio ſe<g ref="char:EOLhyphen"/>ipſum conficit. Quaero enim: unde conſtet Deum eſſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>. religionem eſſe? Biblia De<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> verbum contine<g ref="char:EOLhyphen"/>re? hu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cque verum verbi Dei ſenſum eſſe? Ex Pontificis Ro<g ref="char:EOLhyphen"/>mani judicio; vel Eccleſiae Con<g ref="char:EOLhyphen"/>ciliorum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> à Pontifice approba<g ref="char:EOLhyphen"/>torum. At unde conſtat Eccleſiae, Conciliis, Pontifici Romano cre<g ref="char:EOLhyphen"/>dendum eſſe? Quia Spiritu Chri<g ref="char:EOLhyphen"/>ſti
+<pb n="21" facs="tcp:169908:11"/>reguntur, ne errent? At unde conſtat eſſe aliquem Chriſtum? Quis ille ſit? Spiritui ejus creden<g ref="char:EOLhyphen"/>dum eſſe? Pontificemque Roma<g ref="char:EOLhyphen"/>num hoc Spiritu eſſe praeditum? Ex teſtimonio ſacrae Scripturae. At unde conſtat Scripturae illi cre<g ref="char:EOLhyphen"/>dendum? Quia eſt verbum ipſius Dei. At jam ante quaeſivi: unde conſtet Deum eſſe? ejuſque ver<g ref="char:EOLhyphen"/>bum Scripturis illis contineri? Quid quaeris? Jam ante reſpondi, ex Romani Pont<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ficis judicio. An porro moleſtus eris. Nol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> iraſci, bone vir. Annon vides quàm tur<g ref="char:EOLhyphen"/>piter in circulo oberres? adeoque tibi ipſi contradicas? Idem enim per idem probas. Et hac ratione idem ſeipſo, ſuique ipſius reſpectu noti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s &amp; ignotius: id eſt, vera falſa, falſaque vera dicis. Ita jam &amp; iſto modo vel Atheos conver<g ref="char:EOLhyphen"/>te; vel ad atheiſmum prolabentes retine. At ſi nobiſcum rationi ſa<g ref="char:EOLhyphen"/>nae judicium deferas: expedita omnia fuerint. Conſtabit Deum eſſe, eumque religione colendum. Conſtabit litera<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um ſacrarum au<g ref="char:EOLhyphen"/>ctoritas. Conſtabit etiam utrum
+<pb n="22" facs="tcp:169908:12"/>Pontificia vera ſit Eccleſia? utrum Pontifex errare neſciat? utrum Chriſti vicarius; an adverſarius ſit?</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CAP. V. <hi>De Traditionibus.</hi>
+               </head>
+               <p>SEd jam alterum errorum ge<g ref="char:EOLhyphen"/>nus videamus, quod circa nor<g ref="char:EOLhyphen"/>mam controverſiarum fidei ver<g ref="char:EOLhyphen"/>ſatur: eſtque iterum duplex. Nam primùm verbis quidem rectè re<g ref="char:EOLhyphen"/>jiciunt Traditiones non ſcriptas, quas Pontificii Normae aſſuunt: ſolumque Dei verbum ſac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is lite<g ref="char:EOLhyphen"/>ris comprehenſum ſufficere di<g ref="char:EOLhyphen"/>cunt. A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, ſi religionis ipſorum in<g ref="char:EOLhyphen"/>ſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cias capita, quae illi ad ſalutem omnino arbitrantur neceſſaria: haut ſcias, an id conſtanter de<g ref="char:EOLhyphen"/>fendere, id eſt, an Traditiones non ſcriptas excludere penitus nequeant. Ejusmodi enim <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent unà cum Pontificiis dogmata, quae nec ſacris literis, nec principiis naturalibus comprobari poſſunt: quid? quae utriſque repugnant. Id quod de poſterioribus, de princi<g ref="char:EOLhyphen"/>piis nempe Philoſophicis plenique
+<pb n="23" facs="tcp:169908:12"/>eorum ipſi fatentur. Ide<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>que etiam ea à norma controverſiarum fidei excludunt, tanquam ad ſcientiam; non ad fidem pertineant. De ſacris autem literis illi manifeſtum eva<g ref="char:EOLhyphen"/>det, qui modo eas libero animo conſideraverit, &amp; cum ipſorum dogmatis contulerit. Deprehen<g ref="char:EOLhyphen"/>det enim omnia illa Scripturae di<g ref="char:EOLhyphen"/>cta, quae pro aſſerenda illi ſenten<g ref="char:EOLhyphen"/>tia ſua producunt, alio accipienda eſſe ſenſu, quàm illi volunt, eo<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umque ſententia poſtulat, ſaltem alio intelligi modo poſſe. Inde autem ſtatim ſequitur, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ipſorum explicationem non eſſe neceſſa<g ref="char:EOLhyphen"/>riam: adeoque argumentationem minus, quàm debebat, firmam eſſe. Atque hic non abs re futu<g ref="char:EOLhyphen"/>rum arbitror, ſi id paulò fuſius ex<g ref="char:EOLhyphen"/>plicetur, quod quàm plurimis, etiam doctiſſimis viris obſtare vi<g ref="char:EOLhyphen"/>deo, quominus id, quod res eſt, in diſputationibus, aut examine controverſiarum cernant. Nimi<g ref="char:EOLhyphen"/>rum accurate obſervandum eſt: aliam eſſe concludendi rationem Opponentis, ſeu Argumentantis peculiariter dicti; aliam Reſpon<g ref="char:EOLhyphen"/>dentis,
+<pb n="24" facs="tcp:169908:13"/>Ille complexionem ſuam theſi Reſpondentis opponit. Hic non theſin ſuam concludit, quod multi exiſtimant; neque conclu<g ref="char:EOLhyphen"/>ſioni Opponentis, ſi quidem ratio<g ref="char:EOLhyphen"/>ne negationis allata argumente<g ref="char:EOLhyphen"/>tur, iſta argumentatione ſua con<g ref="char:EOLhyphen"/>tradicit; ſed praemiſſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um alteri. Jam enim ſatis notum eſt, praete<g ref="char:EOLhyphen"/>rita &amp; forma, &amp; antecedente u<g ref="char:EOLhyphen"/>traque Syllogiſmi parte, inepte concluſionem negari. Eum autem revera negaret Reſpondens, ſi, quemadmodum exiſtimatur, non praemiſſis, ſed Concluſioni Oppo<g ref="char:EOLhyphen"/>nentis ſua Concluſione contradi<g ref="char:EOLhyphen"/>ceret. Hoc qui obſervaverit, fa<g ref="char:EOLhyphen"/>cile intelliget, ad ejuſmodi argu<g ref="char:EOLhyphen"/>mentationem: Chriſtus eſt media<g ref="char:EOLhyphen"/>tor. Ergo poenas p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ccatorum no<g ref="char:EOLhyphen"/>ſtri loco ſuſtinuit: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ectè reſpon<g ref="char:EOLhyphen"/>deri: poſſe quenquam mediatorem eſſe, etiamſi non ſuſtineat poenas alterius loco: idque Moſis exem<g ref="char:EOLhyphen"/>plo doceri. Tum enim non ita concludit Reſpondens, quemad<g ref="char:EOLhyphen"/>modum concludentem ſacere ſo<g ref="char:EOLhyphen"/>lent: Poteſt mediator eſſe etiam ſi poenam non ſuſtineat. Ergo non
+<pb n="25" facs="tcp:169908:13"/>ſuſtinuit poenam. Vel: Moſes non ſuſtinuit aliorum poenam, ergo nec Chriſtus. Hoc enim eſſet in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ptè concluſionem opponentis ne<g ref="char:EOLhyphen"/>gare. I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a ergo concludit: Poteſt aliquis eſſe mediato<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, qui poenam alterius loco non ſuſtinet: ut Mo<g ref="char:EOLhyphen"/>ſes. Ergo neceſſe non eſt, omnem eum, qui mediator n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſter eſt, poe<g ref="char:EOLhyphen"/>nam peccatorum noſtrorum ſuſti<g ref="char:EOLhyphen"/>nere. Hoc enim modo opponen<g ref="char:EOLhyphen"/>tis prima, ſeu major propoſitio negatur, eique contradicitur Inde autem patet, quum falſa ſit prae<g ref="char:EOLhyphen"/>miſſarum altera, opponentem ni<g ref="char:EOLhyphen"/>hil ſolidi poſſe concludere. Dein<g ref="char:EOLhyphen"/>de &amp; hoc animadvertendum eſt, quod immeritò ille reſpondendi modus vapulet, quo dicitur: ſe<g ref="char:EOLhyphen"/>cus intelligi verba poſſe, quàm ab opponente explicantur. Neque e<g ref="char:EOLhyphen"/>nim ita reſpondens concludit: poſſunt aliter intelligi; ergo de<g ref="char:EOLhyphen"/>bent. Satis ineptè. Sed &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udita<g ref="char:EOLhyphen"/>tem illi ſuam produnt, qui ita re<g ref="char:EOLhyphen"/>ſolvunt. Ita ergo concludit: poſ<g ref="char:EOLhyphen"/>ſunt aliter, nimirum commodè, ſine torſione &amp; abſurditate intel<g ref="char:EOLhyphen"/>ligi: Ergo non eſt neceſſe ita ac<g ref="char:EOLhyphen"/>cipi,
+<pb n="26" facs="tcp:169908:14"/>quemadmodum opponens voluit. Ejuſmodi autem collectio pro reſpondente legitima eſt. Of<g ref="char:EOLhyphen"/>ficium enim ejus eſt, negare alte<g ref="char:EOLhyphen"/>ram antecedentis Syllogiſmi op<g ref="char:EOLhyphen"/>poſiti partem. At qui nega<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, con<g ref="char:EOLhyphen"/>tradicit: &amp; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rurſus qui contradi<g ref="char:EOLhyphen"/>cit, negat. Hinc univerſalis enun<g ref="char:EOLhyphen"/>ciatio, allata etiam inſtantia ſin<g ref="char:EOLhyphen"/>gulari, negatur. F<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t enim contra<g ref="char:EOLhyphen"/>dictio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Omnis, &amp;, non omnis. Ita<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> quum opponens verba Scri<g ref="char:EOLhyphen"/>pturae affert pro ſententia ſua, eam neceſſariò ſuam continere vult ſententiam. Certe velle debet. Alioqui nihil concludet. Neceſſa<g ref="char:EOLhyphen"/>rium autem dico, non quod con<g ref="char:EOLhyphen"/>ringent<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ae, ſed quod falſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ati, aut probabilitati quidam non ſatis validae oppoſitum eſt. Itaque ne<g ref="char:EOLhyphen"/>ceſſariò idem hic eſt, quod omni<g ref="char:EOLhyphen"/>no &amp; veriſſimè, ita, ut contradi<g ref="char:EOLhyphen"/>ctoria plane falſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſit. Hu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c ergo <hi>neceſſario</hi> contrad citur rectè per <hi>non neceſſatium.</hi> Neceſſarium autem eſt, quod non poteſt eſſe aliter. Ergo, quod poteſt aliter eſſe, eſt non neceſſarium. Quocirca, ſi re<g ref="char:EOLhyphen"/>ſpondens dixerit, poſſe aliter verba
+<pb n="27" facs="tcp:169908:14"/>accipi: recte contradicit oppo<g ref="char:EOLhyphen"/>nentis enunciationi, quae poneba<g ref="char:EOLhyphen"/>tur neceſſaria. Atque h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c ratione ſuo ſatisfecit officio. Si enim con<g ref="char:EOLhyphen"/>tradictoria haec vera eſt; falſa uti<g ref="char:EOLhyphen"/>que erit illa opponentis, cui con<g ref="char:EOLhyphen"/>tradicitur, enunciatio. Et porro ſi ea falſa eſt; nihil ex ea concludi legitimè poteſt. Haec prolixius propterea monenda fuerunt; quòd plurimis harum rerum ignoran<g ref="char:EOLhyphen"/>tia, aut neglectus obſtet, quomi<g ref="char:EOLhyphen"/>nus intelligant, illam, quam de multis doctrinae Chriſtianae capi<g ref="char:EOLhyphen"/>tibus fovent, ſententiam nequa<g ref="char:EOLhyphen"/>quam ex ſacris probari literis poſſe. Intelligent autem nullo negotio, ſimul ac alium verborum ſcriptu<g ref="char:EOLhyphen"/>tae ſenſum non abſurdum eſſe poſſe an madverterint. Neque porrò difficile fuerit cognoſcere, multa ipſis etiam ſacris literis repugna<g ref="char:EOLhyphen"/>re, quae ipſi exiſtimant neceſſaria religionis capita. Salter<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> dogma de tribus in unica divina eſſentia perſonis examinetur: de aeterna, &amp; perpetuò durante fil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Dei ex eſſentia Patris generatione: de incarnatione; de hypoſtatica unio<g ref="char:EOLhyphen"/>ne:
+<pb n="28" facs="tcp:169908:15"/>de Chriſti meritoria loco no<g ref="char:EOLhyphen"/>ſtri Deo Patri praeſtita ſatisfactio<g ref="char:EOLhyphen"/>ne<g ref="char:punc">▪</g> de peccato originis; de pae<g ref="char:EOLhyphen"/>dobaptiſmo; &amp; quis enumeret omnia? Quod ſi e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>go haec talia nec ex ſacris literis, nec ex prin<g ref="char:EOLhyphen"/>cipiis philoſophicis defendi poſ<g ref="char:EOLhyphen"/>ſunt: &amp; tamen ſunt, ut illi volunt, ad ſalutem neceſſaria: qui tandem poſſunt Traditiones non ſcript<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s rejicere? qui Pontificios refutare queunt? Dicant ſolas ſacras literas ſufficere, ut Traditionibus non ſit opus; ſtacim audient: Trinitatem, paedobaptiſmum, &amp; ſimilia ex ſo<g ref="char:EOLhyphen"/>lis ſacris literis probari, ac defen<g ref="char:EOLhyphen"/>di non poſſe: Ergo ſolae ſacrae li<g ref="char:EOLhyphen"/>terae non ſufficiunt: Ergo aliquid credendum, quod non niſi Tra<g ref="char:EOLhyphen"/>ditionibus non ſcriptis probari poteſt. Admiſſis autem in uno at<g ref="char:EOLhyphen"/>que altero Traditionibus iſtis; ni<g ref="char:EOLhyphen"/>hil tam abſurdum erit, quod ea<g ref="char:EOLhyphen"/>rum auctoritate defendi nequea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Nulla enim cauſla eſt, cur in illis valere, in iſtis non debeant. Prae<g ref="char:EOLhyphen"/>ſertim ſi illa non minus abſurda, quam iſta rationi eſſe appareant; nec magis illa, quàm iſta ſacris li<g ref="char:EOLhyphen"/>teris
+<pb n="29" facs="tcp:169908:15"/>aut Philoſophiae ſint conſen<g ref="char:EOLhyphen"/>tanea. Cujuſmod eſſe ea, quaedixi<g ref="char:EOLhyphen"/>mꝰ, inſpicienti ſaltem eorum libro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> qui iſta oppugnarunt, manifeſtum erit. Ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> obſtat, quod Pontificii talia ex ipſa Scriptura ſacra pro<g ref="char:EOLhyphen"/>bare ſoleant. Nam non ideo id faciunt, quòd fine Traditionibus non ſcriptis ex ſolis ſacris literis illa defendi poſſe ex<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtiment; ſed qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d &amp; Scripturae ipſius auctorita<g ref="char:EOLhyphen"/>tem, &amp; talem Scripturae ſenſum non niſi Traditionum, &amp; Eccleſiae auctoritate, rata &amp; indubitata ſup<g ref="char:EOLhyphen"/>ponant. Q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>icquid ergo ex Scri<g ref="char:EOLhyphen"/>pturis illi probare videantur; in Traditiones tamen reſolvitur. Hinc non veriti ſunt quidam ma<g ref="char:EOLhyphen"/>nifeſtè fat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ri, non niſi Traditioni<g ref="char:EOLhyphen"/>bus illa defendi poſſe. Quemad<g ref="char:EOLhyphen"/>modum in <hi>Hoſio, Wujeko, V<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ga, Poſ<g ref="char:EOLhyphen"/>ſevino,</hi> iiſque qui colloquio Ratiſ<g ref="char:EOLhyphen"/>bonenſi interfuerunt, <hi>Gretſero,</hi> &amp; <hi>Tannero</hi> videre eſt. Patet ergo Lu<g ref="char:EOLhyphen"/>theranos &amp; Calvinianos, quamdi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Trinitatem illam, Paedobaptiſ<g ref="char:EOLhyphen"/>mum, Incarnationem, hypoſtati<g ref="char:EOLhyphen"/>cam unionem, aliaque ſimilia ad ſalutem creditu neceſſaria dixe<g ref="char:EOLhyphen"/>rint,
+<pb n="30" facs="tcp:169908:16"/>non poſſe negare traditioni<g ref="char:EOLhyphen"/>bus non ſcriptis opus eſſe: nec aſ<g ref="char:EOLhyphen"/>ſerere ſacras literas ſine illis ſuf<g ref="char:EOLhyphen"/>ficere. Hoc vero ſi ſit: Jam c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ivis manif ſtum eſteos ſol dè Pontifi<g ref="char:EOLhyphen"/>cios nequaquam refutare poſle.</p>
+            </div>
+            <div n="6" type="chapter">
+               <head>CAP. VI. <hi>De principiis Philoſophicis.</hi>
+               </head>
+               <p>DEinde in eo etiam non levi<g ref="char:EOLhyphen"/>ter peccant, quod ita ſolas ſacras literas pro norma fidei po<g ref="char:EOLhyphen"/>nant, ut principia veritatis, ſive natura nota, ſive è rerum aliarum conſideratione deducta, philoſo<g ref="char:EOLhyphen"/>phica vocant, inde excludant. So<g ref="char:EOLhyphen"/>lent enim alios vehementer eo nomine reprehendere, quòd Theo<g ref="char:EOLhyphen"/>logica ad principia philoſophica exigant. Theologiamque iſtorum Philoſophicam, Metaphyſicam, Phyſicam, Mathematicam, ratio<g ref="char:EOLhyphen"/>nalem, humanam ea de cauſa con<g ref="char:EOLhyphen"/>temtim appellare non dubitant. Hinc nata Monacho ex Luthera<g ref="char:EOLhyphen"/>norum, Calvinianorum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> mente hy<g ref="char:EOLhyphen"/>potheſis: <hi>Non eſt alia raiio certe cogno<g ref="char:EOLhyphen"/>ſcendi veritatem in materia fidei, quam
+<pb n="31" facs="tcp:169908:16"/>praemiſſa oratione conſulere Spiritu<g ref="char:cmbAbbrStroke">̄</g> ſan<g ref="char:EOLhyphen"/>ctum exſacru literis.</hi> Eo autem poſi<g ref="char:EOLhyphen"/>to; quid <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nvenient, quod conſtanter cap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ti 3 Monach, reponant? cumpri<g ref="char:EOLhyphen"/>mis vero conſequentiis ſeptem pri<g ref="char:EOLhyphen"/>oribus?
+<label type="milestone">
+                     <seg type="milestoneunit">Conſ. </seg>1. 2.</label> Colligit enim ex illa hypo<g ref="char:EOLhyphen"/>theſi; <hi>neminem quicquam credere, quod ad divina attinet, poſſe, niſi ex ſacris li<g ref="char:EOLhyphen"/>teris ipſe hauſerit.</hi> Quid enim ſi aliis credendo falleretur? Et porre:
+<label type="milestone">
+                     <seg type="milestoneunit">Conſ. </seg>3</label> 
+                  <hi>Eos qui propter aetatem, aut propter defectu<g ref="char:cmbAbbrStroke">̄</g> ſacri Codicis, non ſciunt, vel eis non va<g ref="char:EOLhyphen"/>cat legere ſacra Biblia, non poſſe veram babere fidem.</hi> Ru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſus:
+<label type="milestone">
+                     <seg type="milestoneunit">Conſ. </seg>4. 5.</label> 
+                  <hi>Nullum Chriſtia<g ref="char:EOLhyphen"/>num poſſe certo ſcire, illos libros, qui in Bibliis continentur, eſſe à Spiritu ſancto dictatos, niſi de hac quaeſtione praemiſſa oratione, conſulat Spiritum ſanctum: ex iiſde<g ref="char:cmbAbbrStroke">̄</g> libris, qui continentur in Bibliis &amp; revocantur in dubiu<g ref="char:cmbAbbrStroke">̄</g>, ſintne à Spiritu ſa<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLhyphen"/>cto, ne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne.</hi> Conciliis enim &amp; Patribus non audebit credere. Principia phi<g ref="char:EOLhyphen"/>loſophica ſunt exp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oſa. Quid ergo a<g ref="char:EOLhyphen"/>liud reſtat? Hinc porro concludit:
+<label type="milestone">
+                     <seg type="milestoneunit">Conſ. </seg>6</label> 
+                  <hi>Ergo ſinguli Chriſtianoru<g ref="char:cmbAbbrStroke">̄</g> ſub poena mor<g ref="char:EOLhyphen"/>tis aeternae tenentur praemiſſa oratione &amp; conſulto Spiritu ſancto hanc maxi<g ref="char:EOLhyphen"/>mam quaeſtionem determinare:</hi> adeo<g ref="char:EOLhyphen"/>que <hi>perlegere omnes ac ſingulos
+<pb n="32" facs="tcp:169908:17"/>libros utriuſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Teſtamenti, diverſaſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> editiones Bibliorum, verſioneſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ah He<g ref="char:EOLhyphen"/>braico ac Graeco idiomate in Latinum, Germanicu<g ref="char:cmbAbbrStroke">̄</g> ac Rohemicu<g ref="char:cmbAbbrStroke">̄</g> accuratiſſi<g ref="char:EOLhyphen"/>me diſquirere,
+<label type="milestone">
+                        <seg type="milestoneunit">Conſ. </seg>7</label> &amp; ad invicem collatio<g ref="char:EOLhyphen"/>nare, ac tandem definire de canone li<g ref="char:EOLhyphen"/>bro um ſacrorum, de verſione &amp; editi<g ref="char:EOLhyphen"/>one em<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ndatiſſima, ut ex illa depro<g ref="char:EOLhyphen"/>mant Bibliſtae omnes fidei articulos.</hi> Id<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Conſ. </seg>10</label> non viri tantum, ſed <hi>&amp; mulie<g ref="char:EOLhyphen"/>res, adoleſcentes, docti pariter &amp; in<g ref="char:EOLhyphen"/>docti, cujuſvis ſint conditionis, tenen<g ref="char:EOLhyphen"/>tur facere, ſub poena aetornae damnatio<g ref="char:EOLhyphen"/>nis.</hi> Quis autem ea impoſſibilia &amp; abſurda eſſe non videt? Et tamen è Lutherano<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um Calvinianorum<g ref="char:EOLhyphen"/>que ſententia, qua ita ſacra Scri<g ref="char:EOLhyphen"/>ptura ſola controverſiarum nor<g ref="char:EOLhyphen"/>ma dicitur, ut philoſoph<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ca, quae vocant, excludantur principia, ea omnia colliguntur. Quid quod &amp; Gentiliſmus inde non obſcure ſequatur? Quaero enim unde con<g ref="char:EOLhyphen"/>ſtet religionis Chriſtianae veritas? Ex ſola Scriptura. At unde con<g ref="char:EOLhyphen"/>ſtat Scripturae eſſe credendum? Quia eſt Dei verbum. Vnde iſtud noſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>? Quia Scriptura dicit. At jam ante quaerebatur unde ille
+<pb n="33" facs="tcp:169908:17"/>tanta auctoritas ut ei merito creda<g ref="char:EOLhyphen"/>tur. Qui poteſt homo cordatus, niſi firmiora argumenta habeat, Chri<g ref="char:EOLhyphen"/>ſtianam religionem non abominari, vel ſi recepiſſet, non abjicere?</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CAP. VII. <hi>Vera de Norma ſententia.</hi>
+               </head>
+               <p>ITa<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> negandum eſt, <hi>non eſſe aliam rationem certo cognoſcendi veritatem in materia fidei, quam praemiſſa orati<g ref="char:EOLhyphen"/>one conſulere Spiritum ſanctum ex ſa<g ref="char:EOLhyphen"/>cris literis.</hi> Statuendumque: Sacras literas omnino normam eſſe con<g ref="char:EOLhyphen"/>troverſiarum fidei. Et hactenus quidem ſolas: quatenus Tradi<g ref="char:EOLhyphen"/>tiones non ſcriptae, quocun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tan<g ref="char:EOLhyphen"/>dem nomine veniant, penitus ex<g ref="char:EOLhyphen"/>cluduntur. Caeterum ad ſacrarum literarum auctoritatem &amp; genu<g ref="char:EOLhyphen"/>inam mentem dignoſcendam, prin<g ref="char:EOLhyphen"/>cipia etiam illa, quae philoſophica appellant, advocanda eſſe. Non quòd quemvis velimus eſſe Phi<g ref="char:EOLhyphen"/>loſophum; ſed quòd illis docti philoſophicas diſciplinas ſive ſu<g ref="char:EOLhyphen"/>perſtruant, ſive conſtituant: quae rudibus etiam vel natura vel ob<g ref="char:EOLhyphen"/>ſervatione
+<pb n="34" facs="tcp:169908:18"/>ſunt cognita. Saltem in particularibus; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cet illi genera<g ref="char:EOLhyphen"/>lia inde exſtruere neſciant axio<g ref="char:EOLhyphen"/>mata. Aut in genere; licet quae in diverſis ſpeciebus eorum diffe<g ref="char:EOLhyphen"/>rentia ſit, ignorent. Docti alia in natura rerum omnium fundata eſſe dicunt. Qualia ſunt Metaphyſica: Effectum cauſa poſterius: Totum parte majus: Quodlibet eſt, aut non eſt; aliaque ſimilia. Sic &amp; Lo<g ref="char:EOLhyphen"/>gica: Ab univerſali ad particula<g ref="char:EOLhyphen"/>re valet conſequentia. Alia Phy<g ref="char:EOLhyphen"/>ſica vocant: ut, oculus videndi, auris audiendi, ratio intelligendi inſtrumentum eſt. Alia Mathe<g ref="char:EOLhyphen"/>matica: ut, unum non eſſe tria. Alia ad honeſti, inhoneſtique ra<g ref="char:EOLhyphen"/>tionem pertinent: qualia ſunt Ethi<g ref="char:EOLhyphen"/>ca, Politica, Oeconomica. Alia denique aliorum nituntur teſti<g ref="char:EOLhyphen"/>monio: ut fides, tum hiſtoriis, tum viris honeſtis &amp; gravibus etiam communiter habita. Haec &amp; ſimi<g ref="char:EOLhyphen"/>lia, quae nemini ſano ignota ſunt, ſtatuendum eſt, eſſe fundamenta cognitionis noſtrae, quoad aucto<g ref="char:EOLhyphen"/>ritatem ſacrarum literarum, &amp; quoad verum ea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um ſenſum. Quare
+<pb n="35" facs="tcp:169908:18"/>qui iſtis, ſive naturali inge<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ii bo<g ref="char:EOLhyphen"/>nitate, ſive experientia vel medio<g ref="char:EOLhyphen"/>criter inſtructus eſt: is &amp; ipſas Scripturas, ex iſtis principiis, ſa<g ref="char:EOLhyphen"/>cras eſſe cognoſcet: &amp; quae ad ſa<g ref="char:EOLhyphen"/>lutem ſunt neceſſaria ex Scriptu<g ref="char:EOLhyphen"/>ris nullo negotio dijudicabit. Mo<g ref="char:EOLhyphen"/>do diligentiam adhibeat, &amp; ab affectibus ac praejudicatis opinio<g ref="char:EOLhyphen"/>nibus ſibi imponi minime patia<g ref="char:EOLhyphen"/>tur. Maxime vero, ſi &amp; Spiritus ſancti donum à Deo petat. Quid quod principiorum iſtorum op<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> etiam is, qui ſacras literas vel le<g ref="char:EOLhyphen"/>gere non poteſt, vel nunquam vi<g ref="char:EOLhyphen"/>dit, vel exſtare neſcit: modò ab alio aliquo ſummam religionis Chriſtianae audiat; tantum diſcere poſſit, quantum ei ad ſalutem ſit neceſſarium? Neque enim admit<g ref="char:EOLhyphen"/>tendum eſt quod Monachus ex adverſariorum ſuorum mente ſup<g ref="char:EOLhyphen"/>ponit:
+<note place="margin">
+                     <hi>C. l. pag.</hi> 2. <hi>pr.</hi> 4.</note> 
+                  <hi>Omnibus ac ſingulis in negotio fidei indubitanter credendum eſſe, quod non diſcordent à verbo Dei.</hi> Primùm e<g ref="char:EOLhyphen"/>nim alia ſunt neceſſaria, alia tantum utilia. Et rurſus, alia magis, alia minus. Itemque alia ſimpliciter, ſeu omnibus ad ſalutem neceſſa<g ref="char:EOLhyphen"/>ria
+<pb n="36" facs="tcp:169908:19"/>vel utilia; alia ſecundum quid, ſeu quibuſdam ad alios erudien<g ref="char:EOLhyphen"/>dos. Atque hinc cap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tis 3, conſeq. 7. 8. 9. 10. 11. corruunt. In illis enim ſingula ſingulis neceſſaria eſ<g ref="char:EOLhyphen"/>ſe ponitur. Quod falſum eſſe dixi<g ref="char:EOLhyphen"/>mus. Deinde fidei certitudo ſuos habet gradus. Quemadmodum librae <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>anx altera extra aequilibrium eſt, non tantum ſi perpendiculari<g ref="char:EOLhyphen"/>ter ad horizontem depreſſa ſit; verum etiam ſi in intermediis, in<g ref="char:EOLhyphen"/>tra horizonti parallelam, e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>que p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>pendicularem lineam verſetur ſpatiis. Et quem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dmodum à So<g ref="char:EOLhyphen"/>le illuminatu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> rellus, ut videre quidvis clare poſſis, non tantum quando in ipſo meridie altiſſimus eſt; verum et<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>am quando <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on ita pridem ortus eſt: adeoque quam<g ref="char:EOLhyphen"/>diu paulò ſupra ortus occaſuſque puncta cernitur. Atpue hinc patet quid ſentiendum ſit de Monachi poſtulato capitis 2,
+<note place="margin">
+                     <hi>Pag.</hi> 13. <hi>Cap.</hi> 4. <hi>pag.</hi> 15.</note> prop. 5; <hi>Fides Chriſtiana excludit omnem dubitatio<g ref="char:EOLhyphen"/>nem, ſed eſt certa &amp; infallibilis.</hi> Et huc referri poteſl, quod ſupra de certi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udine diximus. Apparet etiam que loco capitis 3 conſequentia prima
+<pb n="37" facs="tcp:169908:19"/>Monachi hab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nda ſit: <hi>nullum,</hi> nem<g ref="char:EOLhyphen"/>pe, <hi>Chriſtianorum debere in mato ia fidei ull<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hominum, ulliſve Conciliis credere.</hi> Tandemque totum hinc caput 3 Monachi nullo negotio refutabi<g ref="char:EOLhyphen"/>tur. N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>que enim ex Conciliorum, Patrum, aut Tr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ditionum non ſcri<g ref="char:EOLhyphen"/>ptarum auctoritate, quod ille pu<g ref="char:EOLhyphen"/>tat, ſacrae ſcripturae conſta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> canon; ſed ex principiis iſtis quae ante paucis attigimus. Ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> qu <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quam inde abſurdi ſequitur; quum ex adverſo Pont<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ficiorum de Nor<g ref="char:EOLhyphen"/>ma ſententia, ut alia abſurda, ita &amp; atheiſmum ſecum trahat. Si enim quemadmodum de ſe Monachus dicit non procul à fine libelli, <hi>ha<g ref="char:EOLhyphen"/>ctenus non credidit ſac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am eſſe ſcriptu<g ref="char:EOLhyphen"/>ram, niſi commotus auctoritate Eccle<g ref="char:EOLhyphen"/>ſiae;</hi> quaeſo, unde tibi conſtat de auctoritate Eccleſiae? An ex Scri<g ref="char:EOLhyphen"/>ptura? At de ea jam a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te quaere<g ref="char:EOLhyphen"/>batur. Sit qui nec Scripturae cre<g ref="char:EOLhyphen"/>dit, nec Eccleſiae auctoritatem ad<g ref="char:EOLhyphen"/>mittit: quid illi facias? Niſi ad noſtrum confugias medium, fru<g ref="char:EOLhyphen"/>ſtra laborave is; nec ab atheiſmo retrahere quenquam poteris. An<g ref="char:EOLhyphen"/>tequam hinc abeamus, duae p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ius
+<pb n="38" facs="tcp:169908:20"/>ſubvertendae ſunt hypotheſes, qui<g ref="char:EOLhyphen"/>bus Monachus ſuas quaſdam ſu<g ref="char:EOLhyphen"/>perſtruxit conſequentias. Prior eſt: <hi>quod non poſſit eſſe Chriſtianus, vel Ec<g ref="char:EOLhyphen"/>cleſiae verae membrum, qui in errore ali<g ref="char:EOLhyphen"/>quo haeret: utut non ex pravitate ejus id fiat; ſed ex ignorantia aut infirmi<g ref="char:EOLhyphen"/>tate: neque in re tali, quae ipſum ſal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tis fundamentum concernit.</hi> Hoe au<g ref="char:EOLhyphen"/>tem falſum eſſe cum multis aliis; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um imprimis, Act. 11, &amp; Rom. 14, oſten<g ref="char:EOLhyphen"/>ditu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Illic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enim erant, q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i genti<g ref="char:EOLhyphen"/>bus praedicari Evangelium aegrè fe<g ref="char:EOLhyphen"/>rebant: hic infirmos ferre jubemur ab Apoſtolo. Iſta ergo hypotheſi de<g ref="char:EOLhyphen"/>ſtructa, quicquid cap. 5, conſ. 1; &amp; cap. 6, conſeq. 3, 4, Monachus diſputat, plane corruit. Poſterior ejus hyp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>theſis eſt: <hi>quod abſurdum ſit hodieque inquirere, verumne an fal<g ref="char:EOLhyphen"/>ſum ſit, quod olim à Conciliis damna<g ref="char:EOLhyphen"/>tum eſt.</hi> At hoc ipſum minime ab<g ref="char:EOLhyphen"/>ſurdum cenſeri de bet: quum etiam quod bonum &amp; rectum fuit aliquan<g ref="char:EOLhyphen"/>do in conciliis, damnatum eſſe lega<g ref="char:EOLhyphen"/>mus. Quemadmodum de omni<g ref="char:EOLhyphen"/>bus illis quae à Pontifice Romano approbata non ſunt, ipſi pronun<g ref="char:EOLhyphen"/>ciant Pontificii. Nulla autem cau<g ref="char:EOLhyphen"/>ſa
+<pb n="39" facs="tcp:169908:20"/>eſt, cur non idem in reliquis fie<g ref="char:EOLhyphen"/>ri poruiſſe ſtatuendum ſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Modò ne id quod in controverſia eſt, an ſci<g ref="char:EOLhyphen"/>licet Pontifex infallibilis contro<g ref="char:EOLhyphen"/>verſiarum judex ſit, tanquam cer<g ref="char:EOLhyphen"/>tum ſupponatur; ſed rationi ſanae ad normam indubitatorum veri<g ref="char:EOLhyphen"/>tatis principiorum liberum per<g ref="char:EOLhyphen"/>mittatur judicium. Itaque &amp; cap. 6, conſ. 1, 2, planè pereunt. Ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> tamen neceſſe eſt in omnia ſingu<g ref="char:EOLhyphen"/>los inquirere: Simplicioribus ſuf<g ref="char:EOLhyphen"/>ficiunt neceſſaria; quae &amp; pauca ſunt &amp; cognitu facilia. Neque de haereticorum nominibus aut<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>men<g ref="char:EOLhyphen"/>te multum laborandum. Sufficit ſi rem ipſam veram aut falſam eſ<g ref="char:EOLhyphen"/>ſe cognoveris.</p>
+            </div>
+            <div n="8" type="chapter">
+               <head>CAP. VIII. <hi>An mortui propriè vivant?</hi>
+               </head>
+               <p>A Dhuc in genere vidimus eos qui Lutherum Calvinumque ſequuntur in religione duces, non poſſe ſolidè refutare Pontificios. Jam ſi ad particularia deſcenden<g ref="char:EOLhyphen"/>dum eſſet, ingens ſe nobis offer<g ref="char:EOLhyphen"/>ret excu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rendi c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mpus. Verùm
+<pb n="40" facs="tcp:169908:21"/>ne conſtituros brevitatis tetminos tranſiliamus, pauciſſima paucis tan<g ref="char:EOLhyphen"/>tum delibabimus. Oſtendemus autem primùm; eos fundamenta vel ſuppeditare, vel conſervare gra<g ref="char:EOLhyphen"/>viſſimorum errorum qui vigent apud Pontificios. Deinde talia cos docere, quae immeritò non adverſus Pontificios tantum; ſed &amp; adverſus ipſiſſi nam religionis Chriſtianae animam, veram nem<g ref="char:EOLhyphen"/>pe p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atem defenduntur. Et ad prius quidem genus pertinet, quod mortuos vive<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſta<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>unt. Abſur<g ref="char:EOLhyphen"/>dum videbitur. Et certe res ab<g ref="char:EOLhyphen"/>ſurdiſſima eſt. Attamen illi cre<g ref="char:EOLhyphen"/>dunt. Exiſtimant enim animas hominum, eo ipſo momento, quo per mortem a corporibus ſepa<g ref="char:EOLhyphen"/>rantur, deferri vel ad coelum, ibi<g ref="char:EOLhyphen"/>que gaudium ſentire coeleſte, &amp; omnibus perfrui bonis, quae Deus fuis pollicitus eſt; vel ad infernum, ibique torqueri &amp; cruciari igni il<g ref="char:EOLhyphen"/>lo inextinguibili. Idque, uti di<g ref="char:EOLhyphen"/>ctum, animabus ſolis à corpori<g ref="char:EOLhyphen"/>bus ſeparatis tribuunt, eriam ante ipſorum hominum reſurr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctionem: Id eſt, dum adhuc ſunt mortui.
+<pb n="41" facs="tcp:169908:21"/>Illa autem contingere non poſſunt niſi vivent<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Quod enim non vi<g ref="char:EOLhyphen"/>vit, id neque ſentit, adeoque nec voluptate fruitur, nec dolorem p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>titur. Credunt ergo reipſa mor<g ref="char:EOLhyphen"/>tuos vivere. Eo nimirum modo, quo Petrum, Paulum, alioſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> de<g ref="char:EOLhyphen"/>mortu <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in coelis vivere aſſerunt. Hoc a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tem fundamentum eſt non tantum <hi>Purgatorii,</hi> ſed &amp; nefandae iſtius <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dololatriae, quae in <hi>ſancto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um demortuorum invoca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ione</hi> apud Pon<g ref="char:EOLhyphen"/>tificios cernitur. Tolle illud; &amp; iſtis nullus erit locus. Quo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſum pur<g ref="char:EOLhyphen"/>gat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rius ignis, ſi animae à corpo<g ref="char:EOLhyphen"/>ribus ſeparatae nihil ſentiant? Q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orſum preces ad Mariam, Pe<g ref="char:EOLhyphen"/>trum, Paulum, alioſque demor<g ref="char:EOLhyphen"/>tuos, ſi nec preces audire, nec pro te intercedere queant? Contra ſi illud admittas, haud facilè ſan<g ref="char:EOLhyphen"/>ctorum invocationem evertes. E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſi verò<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es per ſe talis ſit, quae cuivis abſurda videri mereatur; videbi<g ref="char:EOLhyphen"/>mus tamen annon in Scripturis ejus habeatur contrarium. Offert autem exemplo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſe Chriſti argu<g ref="char:EOLhyphen"/>mentatio illa, qua probat <hi>futuram mortuorum reſurrectionem,</hi> ex eo, <hi>quod
+<pb n="42" facs="tcp:169908:22"/>Deus ſil Deus Abrahami,
+<note place="margin">
+                        <hi>Matth.</hi> XXIII. 31.32.</note> Iſaaci, &amp; Ja<g ref="char:EOLhyphen"/>cobi: non ſit autem Deus mortuorum, ſed viventium<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> unde concludit <hi>eos Deo vivere,</hi> id eſt, à Deo in vitam revocatum iri, ut<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ſe Deum eorum ſeu benefactorem illis exhibere poſſit. Haec argumentatio fallax omnino eſſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, ſi etiam antequam reſurgerent, gaudium coeleſte per<g ref="char:EOLhyphen"/>ciperent. Tem enim Deus ipſo<g ref="char:EOLhyphen"/>rum Deus ſeu benefactor eſſet, nempe ſecundum animas, etiamſi nunquam reſurgerent corpora. Si<g ref="char:EOLhyphen"/>militer fallax Pauli Apoſtoli argu<g ref="char:EOLhyphen"/>mentatio eſſet, qua probat reſurre<g ref="char:EOLhyphen"/>ctionem mortuorum ex co:
+<note place="margin">1. <hi>Cor.</hi> xv. 30.31.32.</note> quia a<g ref="char:EOLhyphen"/>lioqui, <hi>qui in Chriſtum credunt fruſtra periclitarentur omnibus horis, fruſtra tot calamitates propter Chriſtum ſusti<g ref="char:EOLhyphen"/>nerent:</hi> quod ſuo ipſius exemplo doeet. Deinde, quia alioqui ſa<g ref="char:EOLhyphen"/>tius ſit illius Epicuri de grege porci cantilenam concinere: <hi>Eda<g ref="char:EOLhyphen"/>mus &amp; bibamus, cras enim morimur.</hi> Summa, Chriſtiani hominum om<g ref="char:EOLhyphen"/>nium eſſent miſerrimi. Certe hoc falſum eſſet, ſi pii ſtatim à morte ſecundum animas coeleſti frue<g ref="char:EOLhyphen"/>rentur faelicitate; impiique crucia<g ref="char:EOLhyphen"/>tum
+<pb n="43" facs="tcp:169908:22"/>ſentirent. Non fruſtra enim illi calamitaces tolerarent; nec im<g ref="char:EOLhyphen"/>pune iſti voluptates carnis ſecta<g ref="char:EOLhyphen"/>rentur. Eſſentque pii impiis longe faeliciores, etiamſi corpora ipſo<g ref="char:EOLhyphen"/>rum nunquam reſuſcitarentur. Quum verò longe abſurdiſſimum ſit dicere, Chriſtum Apoſtolum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ma<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> argumentatos furſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e: an pa<g ref="char:EOLhyphen"/>rum <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quet fa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſum id eſſe dogma quo ſtante Chriſto Apoſtoloque tanta abſurditas adſcribenda eſ<g ref="char:EOLhyphen"/>ſet? Deinde,
+<note place="margin">1. <hi>Pet.</hi> 1.5.</note> cur Petrus <hi>ſalutem ani<g ref="char:EOLhyphen"/>marum in ultimum tempus;</hi> cur Pau<g ref="char:EOLhyphen"/>lus <hi>coronam <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ustitiae in illum diem ju<g ref="char:EOLhyphen"/>dicii</hi> rejiceret? <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ui bono judicium inſtitueretur? Qui de piis V.F.
+<note place="margin">
+                     <hi>Heb.</hi> XI. 40.</note> dici p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſet, cos <hi>non acc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>piſſe promiſſionem: Deo pro nobis aliquid melius providen<g ref="char:EOLhyphen"/>te, ne ſine nobis conſummarentur?</hi> ſi cu<g ref="char:EOLhyphen"/>juſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> anima ſtatim à morte etiam ſine corpore coeleſtem ſentiret foe<g ref="char:EOLhyphen"/>licitatem? Sed &amp; rei ipſius natura id falſum eſſe docet. Nonne vivere, mori, ſentire, audire, agere ſunt hominis totius, ſeu compoſiti ex anima &amp; corpore? Nonne cor<g ref="char:EOLhyphen"/>pus animae inſttumentum eſt, ſine quo illa functiones ſuas exequi
+<pb n="44" facs="tcp:169908:23"/>minimè poteſt? Vt opifex artem operandi novit quidem; ſed niſi inſtrumenta ad manus ſint, effe<g ref="char:EOLhyphen"/>ctum producere nequit. Clauda<g ref="char:EOLhyphen"/>tur oculus, non videbit anima; ut<g ref="char:EOLhyphen"/>ut vis vidend<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nequaquam e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> adem<g ref="char:EOLhyphen"/>ta ſit. Simul atque enim inſtru<g ref="char:EOLhyphen"/>mentum reddideris; protinus ho<g ref="char:EOLhyphen"/>mo videbit. Itaque animae à cor<g ref="char:EOLhyphen"/>poribus ſeparatae nec mo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>uae ſunt, nec vivunt, adeoque neque gau<g ref="char:EOLhyphen"/>dium, neque dolorem ſentiunt. Ea enim totius ſunt compoſiti. Scriptura autem dicit, mortu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s non eſſe: Spiritum redire ad eum qui dedit: &amp; de pio um ſpiriti<g ref="char:EOLhyphen"/>bus, eos in manu Dereſſe. At in reſurrectione cum corporibus jun<g ref="char:EOLhyphen"/>gentur. Et tum nactae inſtrumenta operationes ſuas exercent.</p>
+            </div>
+            <div n="9" type="chapter">
+               <head>CAP. IX. <hi>An Chriſtus in coelo carnem &amp; ſan<g ref="char:EOLhyphen"/>guinem adhuc habeat.</hi>
+               </head>
+               <p>PRaeterea, quis eſt qui non ve<g ref="char:EOLhyphen"/>hementer ab iſto <hi>Transſubſtantia<g ref="char:EOLhyphen"/>tionis</hi> commento abhorreat? Quo panis in ipſam Chriſti carnem, vi<g ref="char:EOLhyphen"/>num<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>
+                  <pb n="45" facs="tcp:169908:23"/>in ſangumem commutari cr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur. Quis eſt, qui idolola<g ref="char:EOLhyphen"/>tr cum miſſae ſpectaculum non fu<g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at? quo panis adoratur, quo ſa<g ref="char:EOLhyphen"/>cerdos creare ſuum creatorem dicitur. At iſtis non ſegniter mi<g ref="char:EOLhyphen"/>litat Lutheranorum <hi>oralis manduca<g ref="char:EOLhyphen"/>tio,</hi> &amp; <hi>conſubſtantiatio;</hi> qua in, cum, &amp; ſub pane &amp; v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>no carnem &amp; ſan<g ref="char:EOLhyphen"/>guinem Chriſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> reipſa adeſſe ſta<g ref="char:EOLhyphen"/>tuunt. Minus quidem; attamen aliquantum ſuſt<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Calvinian orum commeſtio ipſius ſubſtantiae carnis &amp; ſanguinis Chriſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Etſienim ſpi<g ref="char:EOLhyphen"/>ritualem illam-appellent, fideque fieri dicant: inane tamen id eſt effugium. Neque en<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m explicari, ipſis fatentibus, ulla ratione po<g ref="char:EOLhyphen"/>teſt, quomodo fides carnis ſangui<g ref="char:EOLhyphen"/>niſque ſubſtantiam percipere, ſibi<g ref="char:EOLhyphen"/>que applicare poſſit. Credere poſ<g ref="char:EOLhyphen"/>ſum eſſe ſubſtantiam aliquam. Sed hoc aliud eſt, quàm fide percipe<g ref="char:EOLhyphen"/>re ipſam ſubſtantiam. Hoc enim explicari poteſt facile; at illud, ut ipſi fatentur, minime. Itaque ſi revera comedunt ſubſtantiam car<g ref="char:EOLhyphen"/>nis ſanguiniſque Chriſti, à Luthe<g ref="char:EOLhyphen"/>ranorum orali manducatione pa<g ref="char:EOLhyphen"/>rum
+<pb n="46" facs="tcp:169908:24"/>aberunt. utut forte non in, cum &amp; ſub; ſed vel per, vel ſupra, vel infra, vel circa, vel alio modo extra panem vinum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> percipiant. Maximi verò momenti eſt, in quo conſentiunt pariter omnes, quod Chriſtum in coelo exiſtentem ho<g ref="char:EOLhyphen"/>dieque carnem &amp; ſanguinem ha<g ref="char:EOLhyphen"/>bere credant. Quod ſi quis neget: totum illud Miſſae &amp; Transſub<g ref="char:EOLhyphen"/>ſtantiationis aedificium penitus cor<g ref="char:EOLhyphen"/>ruit. Et eſt tanti, u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> propterea etiam oralem &amp; realem ſuam ſub<g ref="char:EOLhyphen"/>ſtan<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ae carnis &amp; ſanguinis Chriſti comeſtionem abjic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ant. Falſum autem id eſſe, adeoque meritò ne<g ref="char:EOLhyphen"/>gandum, quod Chriſtus etiam in coelo hodieque exiſtens carnem &amp; ſanguinem habeat: vel ex eo ma<g ref="char:EOLhyphen"/>nifeſtum eſt, quod Apoſtolus ex<g ref="char:EOLhyphen"/>preſſe dicit: <hi>Hoc autem dico, Fratres, quod caro &amp; ſanguis regnum Dei hae<g ref="char:EOLhyphen"/>reditare non poſſunt.</hi>
+                  <note place="margin">1. <hi>Cor.</hi> XV. 50.</note> Quia vero Chri<g ref="char:EOLhyphen"/>ſtus regnum Dei haereditavit; an parum liquet carnem eum &amp; ſan<g ref="char:EOLhyphen"/>guinem nunc non habere? Nec eſt, quod quiſquam excipiat <hi>carnis ſanguiniſque</hi> vocibus, non ipſam car<g ref="char:EOLhyphen"/>neam ſubſtantiam; ſed mores car<g ref="char:EOLhyphen"/>nales
+<pb n="47" facs="tcp:169908:24"/>denotari. Primum enim o<g ref="char:EOLhyphen"/>ſtendi nullo Scripturae loco po<g ref="char:EOLhyphen"/>teſt, voces illas conjunctim poſi<g ref="char:EOLhyphen"/>tas <hi>carnem &amp; ſanguinem</hi> ſignificare carnales mores.
+<note place="margin">
+                     <hi>Mat.</hi> XVI. 17. <hi>Gal.</hi> 1.16. <hi>Eph.</hi> VI. 12.</note> Nam tribus tan<g ref="char:EOLhyphen"/>tum in locis, praeter eum, de quo modo controverſamur in univer<g ref="char:EOLhyphen"/>ſo N. F. habentur. Et ubique in<g ref="char:EOLhyphen"/>firmitatem humanam aut aliquid ſimile, quod ex ſubſtantia carnis &amp; ſanguin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s provenit, aut illi ſua natura adhaere, denotare poteſt. Deinde quod ipſa carnis ſangui<g ref="char:EOLhyphen"/>niſque ſubſtantia hic intelligatur, patet, tum ex continuò adjectis Apoſtoli verbis, tum ex univerſa ejus diſputatione, cujus verba illa pars ſunt. Subjungit Apoſtolus ſtatim: <hi>ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> corruptio incorruptibilita<g ref="char:EOLhyphen"/>tem haereditat.</hi> Nimirum rationem reddens, quare de carne &amp; ſan<g ref="char:EOLhyphen"/>guine iſta affirmaſſet: ſcilicet quia corruptibilis ſit; non poſſit autem, niſi incorruptible, coelum haeredi<g ref="char:EOLhyphen"/>tare. Quum autem non moribus, ſed ſubſtantiae carnis ſanguin ſque competat eſſe corruptibile: ma<g ref="char:EOLhyphen"/>nifeſtum eſt, de ſubſtantia ipſa hic ſermonem eſſe. Idem &amp; diſ<g ref="char:EOLhyphen"/>putatio
+<pb n="48" facs="tcp:169908:25"/>tota oſtendit. Hujus enim ſcopus eſt: docere alia habi uros in reſurrectione homines corpo<g ref="char:EOLhyphen"/>ra, quàm qualia hic habent. Pro<g ref="char:EOLhyphen"/>baverat enim Apoſtolus multis argumentis fu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uram mortuo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um reſurrectionem. Idque uſque ad finem verſus 34. Inde poſtea in<g ref="char:EOLhyphen"/>cipit removere objectionem ejuſ<g ref="char:EOLhyphen"/>modi: Quia co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pora homi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um demortuorum intercunt, &amp; cor<g ref="char:EOLhyphen"/>rumpuntur, ideo non reſurgent homines. Qualia enim haberent corpora? Reſpondet autem: id non obſtare. Docerque habituros corpora ab illis quae corrupta ſint diverſa. Id<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſimilibus quibuſdam declarat. Et porrò à verſu 42. deinceps oſtendit, qua in re di<g ref="char:EOLhyphen"/>verſitas illa corporum conſiſtat. Nimitum non in moribus, ſed in ipſa ſubſtantia: aut iis qualitati<g ref="char:EOLhyphen"/>bus, quae ipſius ſubſtantiae diverſi<g ref="char:EOLhyphen"/>tatem inferant. Quod quum haec ſint corruptibilia; illa futura ſint incorruptibilia. Haec indecora; illa glorioſa Haec infirma; illa poten<g ref="char:EOLhyphen"/>tia. Haec animalia, illa ſpiritualia. Et poſt Chriſtus ipſe dicitur fa<g ref="char:EOLhyphen"/>ctus
+<pb n="49" facs="tcp:169908:25"/>in ſpiritum vivificantem. Spi<g ref="char:EOLhyphen"/>ritus autem carnem &amp; ſanguinem non habet. Hinc etiam non ex terra terrenus; ſed ex coelo eſle dicitur.
+<note place="margin">I. <hi>Cor.</hi> VI. 8. 2. <hi>Cor.</hi> v, 1.2. <hi>Phil.</hi> 111.21.</note> Deinde de ventre noſtro idem ſcribit Apoſtolus: <hi>illum abo<g ref="char:EOLhyphen"/>litum iri.</hi> Et de toto corpore hoc noſtro: <hi>ſcimus quod quum terrena no<g ref="char:EOLhyphen"/>ſtra domus tabernaculi diſſolvetur, ae<g ref="char:EOLhyphen"/>dificium ex Deo habemus, domum non manu factam, aternam in coelis. Ete<g ref="char:EOLhyphen"/>nim in hoc ſuſpiramus habitaculo no<g ref="char:EOLhyphen"/>ſtro, quod ex coelo eſt, indui cupientes. Noſtra autem corpora conformia erunt glorioſo Chriſti corpori.</hi> U de conſe<g ref="char:EOLhyphen"/>quitur et am ventrem, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mque ſubſtantiam carnis &amp; ſangu his Chriſti abolitam ac deſt uctam; &amp;, c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntra, plum ſpirituale ac <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oe<g ref="char:EOLhyphen"/>leſte corpus <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ctum eſſe.</p>
+            </div>
+            <div n="10" type="chapter">
+               <head>CAP. X. <hi>An poſſibile ſit Chriſti praeceptis obedire.</hi>
+               </head>
+               <p>SEd nunc tempus eſt, ut videa<g ref="char:EOLhyphen"/>mus qua <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at one immerito illi non adverſus Pentificios tantum, ſed &amp; adverſus ipſam pieta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em arma ſumant. Duplici id modo
+<pb n="50" facs="tcp:169908:26"/>faciunt. Nam &amp; impoſſibile eſſe docent ſecundum Chriſti praece<g ref="char:EOLhyphen"/>pta vivere; &amp; minimè neceſſa<g ref="char:EOLhyphen"/>rium. Prius illud totidem verbis aſſerere non erubeſcunt. Quam<g ref="char:EOLhyphen"/>vis in eo nequaquam ſibi conſtent. Omnia enim quae adverſus alios docent, ſcribunt, loquuntur, tan<g ref="char:EOLhyphen"/>quam bona defendunt. Et interim boni ſe quicquam facere poſſe ne<g ref="char:EOLhyphen"/>gant. Sed &amp; praeterea ex eo ſequi<g ref="char:EOLhyphen"/>tur, quod liberum homini in rebus ſpiritualibus voluntatis arbitrium adimunt, idque ſervum faciunt: id eſt, tale, quod non modo plane ineptum ſit ad obediendum; ſed &amp; quod maxime praeceptis Chri<g ref="char:EOLhyphen"/>ſti ſua natura repugnat. Vtut enim ſint, qui ad mala ſeu peccata non ſervum, ſed liberum hominis ar<g ref="char:EOLhyphen"/>bitrium pronuncient. Non poſ<g ref="char:EOLhyphen"/>ſunt tamen, niſi ad bonum etiam liberum dicere velint, idipſum conſtanter aſſerere. Liberum enim id demum eſt, quod in hanc ſeſe partem flectere poteſt; &amp; non fle<g ref="char:EOLhyphen"/>ctere. Caeterum, ſi non poſſit non eò ſeſe flectere, liberum non eſt. Quemadmodum ignis non libe<g ref="char:EOLhyphen"/>rè;
+<pb n="51" facs="tcp:169908:26"/>ſed naturali neceſſitate urit. Non poteſt enim non urere. Quo<g ref="char:EOLhyphen"/>circa, ſi voluntas non neceſſariò, ſed liberè ad mala ſeſe flectit: po<g ref="char:EOLhyphen"/>terit etiam ſeſe non eò flectere, id eſt, poteſt abſtinere. Abſtinere autem à malo, ſeu peccato, eſt obtemperare praeceptis Chriſti. Ea enim tranſgredi, peccatum eſt. Non tranſgredi, eſt illis obtem<g ref="char:EOLhyphen"/>perare. Ergo ſi à tranſgreſſione libere abſtinere homo poteſt: li<g ref="char:EOLhyphen"/>bere obtemperare poteſt. Quod ſi admittere nolint; jam nec ad malum liberam eſſe hominum voluntatem dicere poſſunt. Sed neceſſario eum mala facere ut ſtatuant, neceſſe eſt. Atque id du<g ref="char:EOLhyphen"/>plici porro errore fulciunt. Alter de <hi>peccato originis</hi> eſt: quo propter Adami lapſum omnes homini ad Deo obtemperandum ademtas eſie vires, contra omnem Scriptu<g ref="char:EOLhyphen"/>ram &amp; naturam ſtatuunt. Alter de <hi>praedeſtinatione.</hi> Quam non ejuſ<g ref="char:EOLhyphen"/>modi Dei decretum faciunt, quo in genere jam ante jacta mundi fundamenta conſtituit eos omnes ſalvare, qui ipſi eſſent obtempera<g ref="char:EOLhyphen"/>turi;
+<pb n="52" facs="tcp:169908:27"/>relictis iis omnibus, qui fo<g ref="char:EOLhyphen"/>rent refractar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i. Ex eo enim nihil abſurdi ſequ tur: hominique ſua, quemadmodum par eſt, volunta<g ref="char:EOLhyphen"/>tis liberras relinquitur. In ipſius enim hominis poteſtate eſt, quan<g ref="char:EOLhyphen"/>do quiſque jam vivit, &amp; verbum Dei audit, ipſi vel obtemperare, vel reſiſtere. Vnde porro in tem<g ref="char:EOLhyphen"/>pore à Deo vel eligitur vel rejici<g ref="char:EOLhyphen"/>tur. Caeterum tale illi decretum volunt, quo Deus nominatim de unoquo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſententiam jam tulerit, antequam mundus ille conſtitute<g ref="char:EOLhyphen"/>retur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, utrum ſalutem adipiſci; an damnari debeat. Etſi vero quidam id abſolute factum eſſe negen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; led reſpectum ad fidem praeviſam po<g ref="char:EOLhyphen"/>nant. Quia ramen fidem ipſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m non hominis poteſtati aut voluntati relinquunt; ſed Deo in ſolidum adſcribunt: &amp; praeterea jam olim quis crediturus necne eſſet Deo ab aeterno conſtitiſſe aſſerunt: non poſſunt non torum ab abſoluta Dei volunta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſuſpendere. Nimi<g ref="char:EOLhyphen"/>rum eo <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es tendit, ut homines, ſa<g ref="char:EOLhyphen"/>tanaſque penitus excuſentur, om<g ref="char:EOLhyphen"/>niſque peccatorum &amp; damnatio<g ref="char:EOLhyphen"/>nis
+<pb n="53" facs="tcp:169908:27"/>culpa in Deum transferatur. Qui enim vitupe randus homo eſt; ſi non fac<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t, quae facere nullo mo<g ref="char:EOLhyphen"/>do potu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t? Qui Satan ſeducere homines dici poteſt; ſi vel veram illi viam ingredi; vel deſerere eam plane nequeant? Deo autem illi (exhorreſco referens) quanta im<g ref="char:EOLhyphen"/>prudentia, ſapientiſſi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o? quanta injuſtitia, juſtiſſimo? quanta hy<g ref="char:EOLhyphen"/>poc<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſis, fid liſſimo? quanta ma<g ref="char:EOLhyphen"/>litia, optimo adſcribitur? Quae e<g ref="char:EOLhyphen"/>nim major poreſt eſſe impruden<g ref="char:EOLhyphen"/>tia, quam ſollicitum eſſe quen<g ref="char:EOLhyphen"/>quam de iis quae ſcit eſſe Impoſſi<g ref="char:EOLhyphen"/>bilia? Nempe ut homines ſtudeant pietati: quam ne velle quidem poſſe probe norit. Quae injuſtitia poteſt eſſe major, quàm punire quenquam quòd non fecerit ea quae facere nullo modo, te ita de<g ref="char:EOLhyphen"/>cernente, potuit. Annon hypocri<g ref="char:EOLhyphen"/>ſis &amp; deceptio eſt, omnibus polli<g ref="char:EOLhyphen"/>ceri praemium, quod tamen paucis te datutum decreveris? D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nique nonne deteſtabilis eſt prav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tas, poenae quenquam nominatim de<g ref="char:EOLhyphen"/>ſtinare; atque ne ſine cauſa puniri videatur, peccati in ipſo, aut ſal<g ref="char:EOLhyphen"/>tem
+<pb n="54" facs="tcp:169908:28"/>defectus ejus rei, qua ſola poe<g ref="char:EOLhyphen"/>nam effugere poterat, auctorem eſſe: ut habeas ſcilicer, quod jure punias? Nimirum Deum illi Ti<g ref="char:EOLhyphen"/>berio ſimilem faciunt.
+<note place="margin">
+                     <hi>Tacit.</hi> v. <hi>annal. Dionyſ. l.</hi> VIII. <hi>H. R.</hi>
+                  </note> Is Sejani filiam per carnificem necari juſſe<g ref="char:EOLhyphen"/>rat innocentem, &amp; virginem, quam trium virali ſupplicio affici inaudi<g ref="char:EOLhyphen"/>tum erat. Itaque ut praetextus eſ<g ref="char:EOLhyphen"/>ſet, virginem per c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rnificem con<g ref="char:EOLhyphen"/>ſtuprari juſſit; &amp; poſt occidi. Ita Deum cum hominibus agentem blaſpheme fingunt. Sed praeterea quis religioni, quis pietati, quis im<g ref="char:EOLhyphen"/>probitati, qu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> praemio, quiſve poe<g ref="char:EOLhyphen"/>nae locus; ſi ne velle quidem bona, nedum facere quiſquam poſſit? Quorſum exhortationes, dehor<g ref="char:EOLhyphen"/>tationeſque, quarum plenae ſunt ſa<g ref="char:EOLhyphen"/>crae literae; ſi ne velle quidem obſe<g ref="char:EOLhyphen"/>qui homo queat? Quid quod ex<g ref="char:EOLhyphen"/>preſſe Scriptura gravia eſſe Dei praecepta negat?
+<note place="margin">L. <hi>Ioan.</hi> v. 3. <hi>Matth.</hi> XI. 30.</note> Q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ud? levia &amp; ſua<g ref="char:EOLhyphen"/>via pronunciat. Qui ergo illi impoſ<g ref="char:EOLhyphen"/>ſibilia dicere audent? Ita<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> quum iſtud ſit abſurdiſſimum: qui poſ<g ref="char:EOLhyphen"/>ſunt contra diſputantes ſolide refu<g ref="char:EOLhyphen"/>tare Pontificios? Nonne potius ef<g ref="char:EOLhyphen"/>ficiunt, ut quicun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> probioris ſunt
+<pb n="55" facs="tcp:169908:28"/>animi, Pontificiis, ob idipſum, quod tam horrenda abſurda reji<g ref="char:EOLhyphen"/>ciant, favere incipiant? Nonne univerſam religionem evangeli<g ref="char:EOLhyphen"/>cam ſuſpectam reddunt? Exiſti<g ref="char:EOLhyphen"/>mant enim multi, melio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a non edo<g ref="char:EOLhyphen"/>cti, imo ita a magiſtris ſuis iuſtitu<g ref="char:EOLhyphen"/>ti, iſta genuina evangelicae religio<g ref="char:EOLhyphen"/>nis dogmata eſſe: quae tamen cum Evangelio Chriſti ſincero nihil om<g ref="char:EOLhyphen"/>nino commune habent. Exemplo res erit illuſtrior.
+<note place="margin">Haeretici excuſant ſuam li<g ref="char:EOLhyphen"/>bidinem, accuſan<g ref="char:EOLhyphen"/>do Deum.</note> 
+                  <hi>Falſam eſſe hac hae<g ref="char:EOLhyphen"/>reticorum</hi> (inquit Efferen. 3, de rati<g ref="char:EOLhyphen"/>one ſtatus, puncto 2) <hi>de impoſſibilitate continentiae carnis doctrinam, quia ipſu<g ref="char:cmbAbbrStroke">̄</g> Deum D. N. arguit injuſtitiae, cum ille ſtrictiſſime mandet, fornicatione<g ref="char:cmbAbbrStroke">̄</g>, &amp; im<g ref="char:EOLhyphen"/>munditiam carnis ne quidem nominari inter Chriſtianos, ipſi impoſſibilem eſſe continentiam doceant. Sanctus Paulus Apoſtolus damnat operacarnis, dicens, Quoniam qui talia agunt regnum Dei non poſſidebunt. I dem, ut alios eccleſiae doctores praetercam, ſuadet, &amp; praefert nuptiis virgnitatem. Hoc ſcitis, carnis mancipia haeretici. Aut ergò falſum do<g ref="char:EOLhyphen"/>cetis, aut Chriſtus D. N. Injuſte impoſ<g ref="char:EOLhyphen"/>ſibilia requirit, &amp; Apoſtolus stultè vir<g ref="char:EOLhyphen"/>ginitatem impoſſibilem laudat &amp; ſua<g ref="char:EOLhyphen"/>det.
+<pb n="56" facs="tcp:169908:29"/>Haec dura ſunt &amp; eccleſiae judi<g ref="char:EOLhyphen"/>canda relinquo.
+<note place="margin">Diſcurſus ad homines haereticos, de illorum inconti<g ref="char:EOLhyphen"/>nentia.</note> Ego, quia impurâ do<g ref="char:EOLhyphen"/>ctrinâ Remp. Chriſtianam commacula<g ref="char:EOLhyphen"/>tis, politicè vob<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſcum agam. Et primò candidè quaero: ſi impoſſibilis eſt car<g ref="char:EOLhyphen"/>nis continentia, quomodo dum unus conjugum diutius infirmatur; alter ab adulterio cavebit? quomodo maritus in negoliis, in legationibus, vel bello foris occupatus, de honeſtate uxoris ſecurus erit, quam religioſe incontinentem cre<g ref="char:EOLhyphen"/>dit? Quomodo filias veſtras, ut virgi<g ref="char:EOLhyphen"/>nes, poſt nubiles annos deſponſatis, ſi impoſſibilis eſt continentia? Quare leges poenales adulteriis ſtatuitis, cum adul<g ref="char:EOLhyphen"/>teria vobis neceſſaria ſint? Quomodo facultates &amp; bona veſtra juſtè in hae<g ref="char:EOLhyphen"/>redes ſuos transferuntur, quando mora, vel abſentia vagam libidinem neceſſa<g ref="char:EOLhyphen"/>riam aeſtimat? Si vos uxores, &amp; filias vestras incontinentiam docetis, illae ne in religionem delinquant, corpora turpi<g ref="char:EOLhyphen"/>ter proſtituant, quomodo inter vos nobi<g ref="char:EOLhyphen"/>lis, aut honeſto matrona, aut filia nomi<g ref="char:EOLhyphen"/>nari poteſt; ſecundò quaero. Cum im<g ref="char:EOLhyphen"/>poſſibilis ſit carnis continentia, an omnes ſitis adulteri, fornicatores, immundi? ſi non: dicite, quid in diuturnâ conjugis infirmitate vel abſentiâ agitis? ſi con<g ref="char:EOLhyphen"/>tinentes vos praedicatis, quare impoſſibi<g ref="char:EOLhyphen"/>litatem
+<pb n="57" facs="tcp:169908:29"/>continentiae docetis? Si torum violatis, quare adulterii famam injuriam reputatis? Attendite quàm graviter per impuram hanc do<g ref="char:EOLhyphen"/>ctrinam in Deum, in Rempublicam, in vos ipſos, in conjuges, &amp; proles, in honeſtatem morum, &amp; puritatem Chri<g ref="char:EOLhyphen"/>ſtianae vitae delinquatis, &amp; ſi omnino carnis imperio paretis, ſaltem à tam perverſa doctrina abſtinete.</hi>
+               </p>
+            </div>
+            <div n="11" type="chapter">
+               <head>CAP. XI. <hi>An neceſſarium ſit, Chriſti praeceptis obedire.</hi>
+               </head>
+               <p>SUpereſt, ut alterum inſpicia<g ref="char:EOLhyphen"/>mus, quo verae pietati adver<g ref="char:EOLhyphen"/>ſantur: nimirum, quod Chriſti praeceptis obedire nequaquam ex<g ref="char:EOLhyphen"/>iſtiment eſſe neceſſarium. Et ſi verò id olim totidem verbis à quibuſ<g ref="char:EOLhyphen"/>dam aſſertum, nunc ab aliis, ipſa rei abſurditate eò deductis, reji<g ref="char:EOLhyphen"/>ciatur: non poſſunt tamen, ſi ſibi conſtare velint, illud falſum dice<g ref="char:EOLhyphen"/>re. Si enim poſſibile non eſt, uti eos ante docentes deprehendi<g ref="char:EOLhyphen"/>mus: qui poterit eſſe neceſſarium? Deinde fidem ſine operibus bonis juſtificare tanta cum contentione urgent. At obedientia praecepto<g ref="char:EOLhyphen"/>rum Chriſti conſiſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t in bonis ope<g ref="char:EOLhyphen"/>ribus.
+<pb n="58" facs="tcp:169908:30"/>Etſi enim fidei aliquando ſoli juſtificatio ac ſalus ſempiterna adſcribitur; non tamen id ec fit, ut opera inde excludantur. Alioqui rurſus non pauca afferri loca poſ<g ref="char:EOLhyphen"/>ſent, in quibus ſoli cognitioni Dei, Chriſtique; charitati ſoli; ſolis o<g ref="char:EOLhyphen"/>peribus aliis idem attribuitur. Un<g ref="char:EOLhyphen"/>de rurſus fides excludenda eſſet. Haec ergo ejus rei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>caula eſt, quod Scriptura ſaepe una voce plura, nempe effectum una cum cauſa ſua comprehendat. Sic fidem, dum ei ſoli ſalutem tribuit, intelligit eam, quae effectum ſuum, nempe opera bona, ſecum trahat; per Metonymiam quandam Synec<g ref="char:EOLhyphen"/>dochicam. Itaque qui praeceptis Chriſti obedire voluerit, eum be<g ref="char:EOLhyphen"/>ne operari neceſſe eſt. Quod ſi er<g ref="char:EOLhyphen"/>go non ſint neceſſaria bona opera, neceſſarium etiam non eſt Chriſti praecepta facere. Et certe vita etiam multorum id ſatis oſtendit: ut ſi non pejores ſint Pontificiis, certe nihilo illis meliores videas. Omnis morum d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſciplina jacet. Quae Magiſtra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us poli<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>icus non punit, ea omnia etiam per ipſo<g ref="char:EOLhyphen"/>rum
+<pb n="59" facs="tcp:169908:30"/>eccleſias, aut eccleſiaſticam cenſuram licent. Vnum diſſentire capitale eſt. Neque quiſquam, modo idem, quod illi, ſentiat, ex eccleſiae ipſorum corpore ejicitur, priuſquam per carmficem ob<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne<g ref="char:EOLhyphen"/>fanda flagitia a civili corpore ab<g ref="char:EOLhyphen"/>ſcindatur. Vt dicere poſſrs, probi<g ref="char:EOLhyphen"/>tatem magis à politicis ad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>civilem; quam à Theologis ad coeleſtem faelicitatem requiri. Faciliuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> apud ipſos Chriſtianum quàm civem bonum eſſe. Nam &amp; illos in coe<g ref="char:EOLhyphen"/>tibus ſuis ferunt, quos etiam Po<g ref="char:EOLhyphen"/>litici à civilibus congregationibus arcent. Atque huc etiam Confeſ<g ref="char:EOLhyphen"/>ſionis, Abſolutionis, Sacramento<g ref="char:EOLhyphen"/>rumque, uti vocant, uſus apud ipſos ſpectat, ut peccatorum re<g ref="char:EOLhyphen"/>miſſio ipſis ſive detur, ſive obſi<g ref="char:EOLhyphen"/>gnetur. Quis enim non lubentius iſta uſurparet, quam vitam emen<g ref="char:EOLhyphen"/>daret? Hoc enim illo difficilius. Itaque ſi illo modo remiſsio pec<g ref="char:EOLhyphen"/>catorum, quae nihil aliud eſt, quam juſtificatio, quamque aeterna ſalus ex Dei decreto conſequitur, ob<g ref="char:EOLhyphen"/>tineri poteſt: utique vera pietas, &amp; obedientia praeceptorum Chri<g ref="char:EOLhyphen"/>ſti
+<pb n="60" facs="tcp:169908:31"/>non erit neceſſaria. Et quid multis opus? Non poſſunt, niſi in<g ref="char:EOLhyphen"/>juſtum dicere Deum voluerint, neceſſariam nobis pietatem aſſe<g ref="char:EOLhyphen"/>rere. Docent en<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m Chriſtum noſtri loco &amp; Dei praec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pta obſervaſſe, quae activa; &amp; poenas peccatorum noſtrorum plene pertuliſſe, quae paſſiva ejus juſtitia, &amp; utra<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> nobis imputari dicitur. Jam ſi poenam Chriſtus omnem noſtri l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>co plenè pertulit: non eſt neceſſe, ut nos pec<g ref="char:EOLhyphen"/>cata fugiamus, pietatique ſtudea<g ref="char:EOLhyphen"/>mus. Niſi Deum injuſtum dicere ve<g ref="char:EOLhyphen"/>lis, qui bis idem peccatum, &amp; in Chriſto ſcilicet, &amp; in nobis puniat: qua ratione Chriſtus noſtro loco paenas plenè pertul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſe nequ quam dici poſſet. Dei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, juſtumne ab eo, cujus loco alius plene ſatisfe<g ref="char:EOLhyphen"/>cit, debitum exigere? Quod ſi ergo Chriſtus noſtri loco praecep<g ref="char:EOLhyphen"/>ta obſervav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t: quo nomine à no<g ref="char:EOLhyphen"/>bis Deu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> idem exigere poterit? Nec eſt, quod in grati animi ſigni<g ref="char:EOLhyphen"/>ficationem, &amp; fidei teſtandae cauſa à nobis obedientiam exigi dicas. Niſi omnia quae nos debebamus, Chriſtum non praeſtitiſle ſtatuas.
+<pb n="61" facs="tcp:169908:31"/>Nimirum noſtri loco nec gratus fuit, nec credidit, nec poeniten<g ref="char:EOLhyphen"/>tiam egit, &amp; ſi quae ſunt alia. Qui ergo dicunt, Chriſtum omnia no<g ref="char:EOLhyphen"/>ſtri loco praeſtitiſſe? Nam &amp; illa praecepta ſunt. Si verò etiam illa noſtri loco praeſtitit: quo jure à nobis ſub poena damnationis de<g ref="char:EOLhyphen"/>nuò exiguntur? Longè plura in iſto dogmate ſunt abſurda, quae fuſe ab aliis enumerata, &amp; refu<g ref="char:EOLhyphen"/>tata ſunt. Sed nos eo hic contenti ſumus, quòd ex illo ſequatur, obe<g ref="char:EOLhyphen"/>dientiam praeceptorum Chriſti, homini qui ſalutem adipiſci velit, non eſſe neceſſariam. Hoc autem ex eo ſequi quivis apertè videt. Neque quicquam agunt, quod <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>dem tamen neceſſariam dicant; qua Chriſti activam juſtitiam mi<g ref="char:EOLhyphen"/>hi applicem. Fidem autem ſecum trahere b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>na opera. Nihil, in<g ref="char:EOLhyphen"/>quam, agunt. Nam nec fides, ſal<g ref="char:EOLhyphen"/>va illa eorum ſententia, neceſſaria dici poteſt. Nec, utut neceſſaria ſit, bona opera ſecum trahit; quin potius quo ea firmior eſt, eo minus operatur. Non neceſſariam eſſe ſidem dico. Quorſum enim opus
+<pb n="62" facs="tcp:169908:32"/>illa? An caeteroqui id non fecit Chriſtus, quod fecit? Nugae. An meo loco non fecit, niſi feciſſe credam? Ergo nunquam Chri<g ref="char:EOLhyphen"/>ſtum mei loco Dei obſervaſſe praecepta credere poſſum: niſi id quod falſum eſt, credere velim. Nam ſi non credo: id factum non eſt. At antequam credo, certe non credo. Itaque ant<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quam cre<g ref="char:EOLhyphen"/>do, Chriſtus mei loco p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aecepta non implevit. Qui ergo id crede<g ref="char:EOLhyphen"/>re poſſum factum eſſe, quod fa<g ref="char:EOLhyphen"/>ctum non eſt? Dicendum ergo, Chriſtum mei e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iam loco praece<g ref="char:EOLhyphen"/>pta obſervaſſe, ſive id credam, ſive minus. Qui ergo fides neceſſaria? Sed eſto: qui fides illa parit in nobis praeceptorum obedientiam? Imò quo firmiùs quiſque credide<g ref="char:EOLhyphen"/>rit ſuo loco jam ſolutum eſſe de<g ref="char:EOLhyphen"/>bitum: eò minus, quomodo ipſe ſolvat, curabit. Manifeſtum ergo eſt, ex ipſorum dogmatibus ſequi pietatem, quae obedientia praece<g ref="char:EOLhyphen"/>pto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um Chriſti continetur, non eſſe neceſſariam. Hoc autem quis non videt eſſe auſurdiſſimum? Nimirum quam Chriſtus angu<g ref="char:EOLhyphen"/>ſtam
+<pb n="63" facs="tcp:169908:32"/>dixerat ſalutis viam, ea fit ampliſſima. Et quod ſingulis, non dico capitibus, ſed fere paginis, ac pene dixiſſem verſibus in uni<g ref="char:EOLhyphen"/>verſo N. F. codice tam ſeriò in<g ref="char:EOLhyphen"/>culcatur: contra omnem ratio<g ref="char:EOLhyphen"/>nem rejicitur. Ubique enim vel ipſa bona opera ſeu pietas praeci<g ref="char:EOLhyphen"/>pitur, vel mala opera prohiben<g ref="char:EOLhyphen"/>tur, vel rationes ad illa ducentes, ab hiſve revocantes, vel exempla bona, malave facientium, illorum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> praemiis, horum poenis affectorum, aut olim afficiendorum recenſen<g ref="char:EOLhyphen"/>tur. Ipſeque Chriſtus non doctrina tantum ſua, ſed &amp; vita &amp; morte ad pietatem nos ducere voluit: II. Cor. v. 15. Eph. v. 25. Tit. 11.14. Hebr. IX. 14. I Pet. 11.24.25. I Joh. 1.6.7. Vt plane perſua<g ref="char:EOLhyphen"/>ſiſſimum omnious eſſe debeat, ſi quis ingredi in regnum coelorum velit, ei obedientiam praecepto<g ref="char:EOLhyphen"/>rum Chriſti omnino neceſſariam eſſe. Etſi verò Pontificii duplicem hic errorem committant: nimi<g ref="char:EOLhyphen"/>rum quod quaedam bona opera fingant, praeceptaque dicant, quae talia non ſunt: nempe non à Chri<g ref="char:EOLhyphen"/>ſto,
+<pb n="64" facs="tcp:169908:33"/>ejuſque Apoſtolis, ſed ab ho<g ref="char:EOLhyphen"/>minibus allis, quibus fidem habe<g ref="char:EOLhyphen"/>re non tenemur, profecta. Dein<g ref="char:EOLhyphen"/>de, quòd illis, quae Deus per Chri<g ref="char:EOLhyphen"/>ſtum, ejuſque Apoſtolos praecepit, meritum etiam trikuant. Quae duo non tantum ex ſacris literis com<g ref="char:EOLhyphen"/>probari nequeunt: ſed &amp; ex iiſdem facile rejiciuntur. Quia tamen, quod ad ipſum rerum genus atti<g ref="char:EOLhyphen"/>net, bona opera omnino neceſſa<g ref="char:EOLhyphen"/>ria dicunt, id quod veriſſimum eſſe vidimus: quis non videt Lu<g ref="char:EOLhyphen"/>theranos, Calvinianoſque hac in parte illos non tantum ſol dè re<g ref="char:EOLhyphen"/>futare non poſſe: ſed &amp; univer<g ref="char:EOLhyphen"/>ſam doctrinam Evangelii, quate<g ref="char:EOLhyphen"/>nus à Pont ficiis diſcedit, vehe<g ref="char:EOLhyphen"/>menter ſuſpectam reddere?</p>
+            </div>
+            <div n="12" type="chapter">
+               <head>CAP. XII. <hi>Concluſio.</hi>
+               </head>
+               <p>ET haec quidem, O boni, non eo a nob<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s diſputata ſunt ani<g ref="char:EOLhyphen"/>mo, ut vel aegrè vobis faceremus, vel ad Pontificios tranfire jubere<g ref="char:EOLhyphen"/>mus: ſed ut oftenſo periculo, &amp; infirmitate cauſſae veſtrae, cautio<g ref="char:EOLhyphen"/>res,
+<pb n="65" facs="tcp:169908:33"/>&amp; folldorum veritatis funda<g ref="char:EOLhyphen"/>mentorum ſtudioſiores redderemus. Quo fine Medicus aegroto morbi perlculum narrat? An ut dolorem augeat? An ut mori cogat? Non certe: ſet ut ad quaerenda reme<g ref="char:EOLhyphen"/>dia excitet. Sit arx, quae ab hoſti<g ref="char:EOLhyphen"/>bus valid<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſime oppugnetur. Ad<g ref="char:EOLhyphen"/>venlat aliqu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s rerum peritus, &amp; quomodo hoc, itemque illo in loco non ſatis ſit munita; quam<g ref="char:EOLhyphen"/>que facile ab hoſte ſuperari queat, tibi ob oculos ponat. Quid di<g ref="char:EOLhyphen"/>ces? An accuſabis, quod tibi fru<g ref="char:EOLhyphen"/>ſtra moleſtus ſit? An ipſum ſua<g ref="char:EOLhyphen"/>dere pronunciabis ut hoſti teque arcemque tradas? Quid ſi erra<g ref="char:EOLhyphen"/>res? Potuit optimo feciſſe animo. Vt ad ſollicitudinem &amp; curam de munimentis fortioribus te ex<g ref="char:EOLhyphen"/>citaret. Idem &amp; hic vob<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s cogi<g ref="char:EOLhyphen"/>tandum eſt. Sed quicquid vos exi<g ref="char:EOLhyphen"/>ſtimetis: ſufficit mihi conſcientiae meae teſtimonium. Vos vero agi<g ref="char:EOLhyphen"/>te quam putatis cauſſam eſſe, quod tot hominum myriades hodie vel ad Pontificios deficiant, vel in belluinam vitam atheorum more prolabantur? Equidem duas iſtas,
+<pb n="66" facs="tcp:169908:34"/>vel earum ſaltem alteram eſſe ar<g ref="char:EOLhyphen"/>bitror: verita<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gnorantiam: &amp; p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etatis neglectum: Huc autem &amp; tolerantia crucis &amp; perſecutionis veritatis cauſa pertinet. Qui enim ſimpliciores ſunt, illi quum urgeri ſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dent, id ſequuntur, quod ipſis videtur melius: &amp; q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o admiſſo cruc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m effugere poſſint. Qui ve<g ref="char:EOLhyphen"/>rò pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lò ſunt acutiores, illi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ta ſe<g ref="char:EOLhyphen"/>cum colligunt: ſi melior non da<g ref="char:EOLhyphen"/>tur religio, nullus etiam Deus eſt. Si Deus eſſet, religio eſſet melior. Connexionum aut<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m iſtarum vis ex iis manifeſta eſt, quae de reli<g ref="char:EOLhyphen"/>gione tum Lutheranorum &amp; Cal<g ref="char:EOLhyphen"/>vinianorum, tum etiam Pontifi<g ref="char:EOLhyphen"/>ciorum ſupra diſputavimus. Quo<g ref="char:EOLhyphen"/>circa, ſi illi occurrere malo, quem<g ref="char:EOLhyphen"/>admodum quidem vos decet, rite volueritis, ita agite. Ante omnia verum quaerite: &amp; quae hucuſque falſa credidiſtis, ea abjicite. Sal<g ref="char:EOLhyphen"/>tem aliis, quominus ad veri perſpi<g ref="char:EOLhyphen"/>cientiam perveniant, impedimen<g ref="char:EOLhyphen"/>to eſſe deſiſtite. Iſtud jam dudum vos obſervaſſe dicetis: ſed rem ſecus ſeſe habere nimis manife<g ref="char:EOLhyphen"/>ſtum eſt. Ipſos vos judices volo.
+<pb n="67" facs="tcp:169908:34"/>Dicite: Rectene Pontificii in ve<g ref="char:EOLhyphen"/>rum inquirunt? neque ulli, quo<g ref="char:EOLhyphen"/>minus inquirat, impedimento ſunt? Negabitis, ſat ſcio. Rationes e<g ref="char:EOLhyphen"/>nim in promptu ſunt. Nam con<g ref="char:EOLhyphen"/>tradicentes non ferunt. Homines diſſentientes expellunt: in carce<g ref="char:EOLhyphen"/>res conjiciunt: bonis omnibus exuunt: unda, fune, ferro, flam<g ref="char:EOLhyphen"/>ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rota, aliiſque mille mortibus tercidant: &amp;, quod nuperum in<g ref="char:EOLhyphen"/>ventum eſt, militum inſolentia emaciant. Libros autem diver<g ref="char:EOLhyphen"/>ſam ſententiam ab ipſis continen<g ref="char:EOLhyphen"/>tes, combutunt: &amp; vendi, legi<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſub graviſſima poena prohibent. Rectè judicaſtis. Sed in vos ipſos retorqueo. Idem enim &amp; vos fa<g ref="char:EOLhyphen"/>citis. Exiſtimatis vos verum jam habere, Pontificios minimè. At contra exiſtimant alii. Et de ſe ita perſuaſum eſt Pontificiis. Quo jure verò ab illis vos quaeritis, ut cogitent fieri poſſe, ut ipſi errent; ſi de vobis id impoſſibile eſſe ſta<g ref="char:EOLhyphen"/>tuitis? Si verò poſſibile eſt: cur diſſentientes non fertis? non au<g ref="char:EOLhyphen"/>dit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s? cur libros legi vendique prohibetis. Quod tibi non vis fie<g ref="char:EOLhyphen"/>ri,
+<pb n="68" facs="tcp:169908:35"/>alteri ne feceris, vulgo dici<g ref="char:EOLhyphen"/>tur. Vos Chriſti illud moveat: Quicquid vultis ut faciant vobis homines, id ipſi allis facite. Et Apoſtoli: Inexcuſabilis es, O ho<g ref="char:EOLhyphen"/>mo, omnis qui judicas. In quo ju<g ref="char:EOLhyphen"/>dicas alterum, teipſum condem<g ref="char:EOLhyphen"/>nas: eadem en<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m agis, quae judi<g ref="char:EOLhyphen"/>cas. Scimus enim judicia Dei eſſe ſecundum veritatem in eos, qui talia agunt. Exiſtimas autem, O homo, qui judicas eos qui talia agunt, &amp; facis ea, te effugiturum judicium Dei? Moveat illud Iu<g ref="char:EOLhyphen"/>ris conſultorum: Si quis apud eum, qui magiſtratum, poteſtatemque habebit, aliquid novi juris obti<g ref="char:EOLhyphen"/>nuerit, quandoque poſtea adver<g ref="char:EOLhyphen"/>ſario ejus poſtulante, eodem jure adverſus eum decernetur: ſcili<g ref="char:EOLhyphen"/>cet, ut quod ipſe in alterius per<g ref="char:EOLhyphen"/>ſona acquum eſſe credidiſſet, id in ipſius quoque perſona valere pa<g ref="char:EOLhyphen"/>tiatur. Qui vitio poteſtis Pontifi<g ref="char:EOLhyphen"/>ciis vertere: quod ipſi vobis per<g ref="char:EOLhyphen"/>mittitis? Nimirum licentiam vo<g ref="char:EOLhyphen"/>bis dari in alterum vultis; in vos non vultis alteri. Vbi jus? Vbi aequitas? Exiſtimatis magnum in<g ref="char:EOLhyphen"/>firmitatis
+<pb n="69" facs="tcp:169908:35"/>religionis Pontificiae ar<g ref="char:EOLhyphen"/>gumentum eſſe, quod non niſi vi &amp; tormentis externis ſuſtineri queat. Et recte putatis. At quia idem vos facitis: an alios idem non judicare de veſtra religione cenſetis? Suſpectam nimirum eo ipſo vel maxime redditis. Nam ſi veritas eſt: quid opus violentia? Ipſa ſi clare proponatur, fortiſſi<g ref="char:EOLhyphen"/>mum telum eſt, &amp; pectus veri cu<g ref="char:EOLhyphen"/>pidum ocyſſime forit, ac vincit. Chriſtum Apoſtoloſque videte. Ob ſententiam illi ſuam ab aliis violenta multa perpeſſi ſunt; at ipſi non intulerunt propterea a<g ref="char:EOLhyphen"/>liis. Si cadem veſtra eſt ſenten<g ref="char:EOLhyphen"/>tia: cur non iiſdem eam defen<g ref="char:EOLhyphen"/>ditis, &amp; propagatis mediis: do<g ref="char:EOLhyphen"/>cendo ſcilicet &amp; patiendo? S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<g ref="char:EOLhyphen"/>liis opus eſſe mediis putatis: ni<g ref="char:EOLhyphen"/>mirum illis, quibus adverſarii Chriſti, Apoſtolorumque ſunt uſi: jam videte, ne &amp; alia a Chriſti &amp; Apoſtolorum veſtra ſit religio. Quod ſi eſt: in mille vos formas vert<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te; nihil efficietis. Nunc e<g ref="char:EOLhyphen"/>nim, nunc tempus eſt, quo ſine vi potenter vincat preſſa veritas. At<g ref="char:EOLhyphen"/>que
+<pb n="70" facs="tcp:169908:36"/>eo ipſo, quod premitur, ma<g ref="char:EOLhyphen"/>gnum apud alios famae erit ali<g ref="char:EOLhyphen"/>mentum. Quo magis (inquit, de Cremutii libris igni deſtinatis: at ſervatis tamen, &amp; editis, Tacitus) ſocordiam eorum invidere libet, qui praeſenti potentia credunt ex<g ref="char:EOLhyphen"/>tingui poſſe etiam ſequentis aevi memoriam. Nam contra punitis ingeniis gliſcit auctoritas. Neque aliud externi Reges, aut qui ea<g ref="char:EOLhyphen"/>dem ſaevitia uſi ſunt, niſi dedecus ſibi, atque illis gloriam peperere. Sed ut iſtud abſit: veraene, vos quaeſo, an falſae religioni magis convenit diſſentientes vi oppri<g ref="char:EOLhyphen"/>mere. Si verae: non poteſtis ſuc<g ref="char:EOLhyphen"/>cenſere Pontificiis. Nec auditori<g ref="char:EOLhyphen"/>bus vitio vertere, quod veram credant illam religionem, quam tanta violentia propagatum eunt Pontificii. Ita enim vos ipſi fa<g ref="char:EOLhyphen"/>cto veſtro docuiſtis. Si verò fal<g ref="char:EOLhyphen"/>ſae: cur ipſi utimini? Annon eo ipſo ſuſpectam veſtram ſenten<g ref="char:EOLhyphen"/>tiam redditis? Sed illud fortaſſis vobis obſtat, quòd, ſi vel receptam ipſi abjiceretis ſententiam; vel ab<g ref="char:EOLhyphen"/>j<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ciendam eſſe auditores, contrà
+<pb n="71" facs="tcp:169908:36"/>quàm vos putaretis, cognoſce<g ref="char:EOLhyphen"/>rent: honori, dignitati, exiſtima<g ref="char:EOLhyphen"/>tion, proventibus, boniſque ve<g ref="char:EOLhyphen"/>ſtris prolixe timendum ſit. Ni<g ref="char:EOLhyphen"/>mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um hinc illae lacrymae. Sed vos non niſi quod verum eſt quaerite, &amp; docete. Si ferre id nolint alii: afflictiones ſuſtinete. Atque huc alterum ſpectat, quod neceſſarium eſſe diximus. Sincerum &amp; ſerium pietatis ſtudium. Fugite carnales iſtas concupiſcentias: ne confor<g ref="char:EOLhyphen"/>memini priſtinis ſeu mundanis cupiditatibus: comeſſationes, com<g ref="char:EOLhyphen"/>potationes, aliaque carni grata magis, quàm ſpiritui ſalutaria de<g ref="char:EOLhyphen"/>clinate: animoſque veſtros ad graviſſimas propter veritatem perpetiendas perſecutiones com<g ref="char:EOLhyphen"/>ponite. Atque ut idem faciant auditores veſtri, ſedulo curate. Neque id verbis ſolum inanibus: quae aliis veſtris dogmatibus fa<g ref="char:EOLhyphen"/>cile refutantur: quemadmodum proxime praecedentibus capiti<g ref="char:EOLhyphen"/>bus apparuit. Sed abjectis falſis, ejuſmodi argumentis agite, qui<g ref="char:EOLhyphen"/>bus reſiſtere nemo, niſi extreme improbus, poſsit. Summa, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id alte
+<pb n="72" facs="tcp:169908:37"/>animis omnium inſerite: ſancti<g ref="char:EOLhyphen"/>monia &amp; patientia veritatem vin<g ref="char:EOLhyphen"/>cere. Deus autem veritatis au<g ref="char:EOLhyphen"/>tor, &amp; pietatis verae largiſſimus remunerator, impietatiſque ſeve<g ref="char:EOLhyphen"/>riſſimus vindex, veritatis radios in omnes mundi angulos diffun<g ref="char:EOLhyphen"/>dat: &amp; Spiritu ſuo ſancto corda veſtra, omniumque ſalutis ſuae a<g ref="char:EOLhyphen"/>mantium impleat: ut quod fal<g ref="char:EOLhyphen"/>ſum abjiciant, quod improbum vitent; quodque verum quaerant, quaeſitum inveniant, inventum re<g ref="char:EOLhyphen"/>cipiant, receptum exoſculentur, &amp; ad ejus praeſcript <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m univerſam vitam componant; omnes deni<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>, ſi quae ingruant, calamitates forti animo concoquant: &amp; ita expe<g ref="char:EOLhyphen"/>ctent adventum glorioſum Do<g ref="char:EOLhyphen"/>mini noſtri Ieſu Chriſti: atque ex ejus manibus coronam gloriae immarceſſibilem cum gaudio re<g ref="char:EOLhyphen"/>cipiant: id faxit per eundem Fi<g ref="char:EOLhyphen"/>lium ſuum Ieſum Chriſtum Do<g ref="char:EOLhyphen"/>minum noſtrum, cui ſit honor &amp; gloria ſempiterna. Amen.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:169908:37"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
